@@ -1,0 +1,510 @@
+ID_TRANSMISION,FECHA,NOMBRE_COMPLETO,IDIOMA,PATROCINADO,RANGO,MODOS_JUEGOS,GENEROS_JUEGOS,CATEGORIAS_JUEGOS,JUEGOS,TIEMPO_TRANSMISION,ESPECTADORES_PROMEDIO,TIEMPO_VISTA,VISTAS_GANADAS,SEGUIDORES
+ID_TRANS_000001,2022-09-01,Noizeeh,English,Con Patrocinador,Novato,Multijugador en Línea,Acción,Disparos/FPS,VALORANT,85245,125,30155805,602791,46800
+ID_TRANS_000002,2022-09-01,AussieAntics,English,Con Patrocinador,Experto,Multijugador en Línea,Acción,Battle Royale,Fortnite,124635,941,126102135,4876013,180133
+ID_TRANS_000003,2022-09-01,StumptGamers,English,Con Patrocinador,Novato,Multijugador en Línea,Otros,Eventos Especiales,Special Events,65775,186,18515475,3542106,49059
+ID_TRANS_000004,2022-09-01,Pamaj,English,Con Patrocinador,Experto,Multijugador en Línea,Acción,Disparos/FPS,Call Of Duty: Modern Warfare,47055,493,30333690,657932,318096
+ID_TRANS_000005,2022-09-01,Draskyl,English,Con Patrocinador,Avanzado,Multijugador en Línea,Estrategia,MOBA,Dota 2,164520,616,101275455,1031735,127582
+ID_TRANS_000006,2022-09-02,Ammy,Portuguese,Con Patrocinador,Avanzado,Multijugador en Línea,Estrategia,MOBA,League of Legends,115320,150,20207145,2159839,78005
+ID_TRANS_000007,2022-09-02,근태_ (geuntae_),Korean,Con Patrocinador,Novato,Multijugador en Línea,Acción,Disparos/FPS,Overwatch,136875,90,12023460,429051,30369
+ID_TRANS_000008,2022-09-02,DAENGZA,Korean,Con Patrocinador,Aficionado,Multijugador en Línea,RPG,MMORPG,World of Warcraft,147330,76,11294370,346264,2047
+ID_TRANS_000009,2022-09-02,OGARainbow6PIT,English,Con Patrocinador,Novato,Multijugador en Línea,Acción,Disparos/FPS,Tom Clancy,7740,2783,23495190,1386826,40674
+ID_TRANS_000010,2022-09-02,인섹_ (insec13),Korean,Sin Patrocinador,Aficionado,Multijugador en Línea,Estrategia,MOBA,League of Legends,63570,399,22861845,647857,19392
+ID_TRANS_000015,2022-09-03,RatoBorrachudo,Portuguese,Con Patrocinador,Experto,Transmisión en Vivo,Variado,Variado,Just Chatting,7785,2846,23337720,762780,212941
+ID_TRANS_000013,2022-09-03,EinQuantumPro,German,Con Patrocinador,Novato,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,Fallout 76,112440,198,23080995,3051334,54455
+ID_TRANS_000014,2022-09-03,WishYouLuckk,English,Sin Patrocinador,Experto,"Un jugador, Multijugador en Línea",Acción,Disparos/FPS,Destiny 2,23130,471,11330985,181500,168899
+ID_TRANS_000011,2022-09-03,AngryTestie,English,Con Patrocinador,Avanzado,Multijugador en Línea,Estrategia,MOBA,Heroes of Newerth,290700,203,59362320,997000,63131
+ID_TRANS_000012,2022-09-03,jjjjoaco,Spanish,Con Patrocinador,Experto,Transmisión en Vivo,Variado,Variado,Just Chatting,22680,3344,77008110,2928654,719302
+ID_TRANS_000016,2022-09-04,Fonbet_NBA,Russian,Sin Patrocinador,Novato,"Un jugador, Multijugador en Línea",Deporte,Deportes,NBA 2K19,294990,196,57748035,3757526,38393
+ID_TRANS_000017,2022-09-04,ibai,Spanish,Con Patrocinador,Experto,Transmisión en Vivo,Variado,Variado,Just Chatting,78180,30604,2582360895,73557439,3044081
+ID_TRANS_000018,2022-09-04,Valouzz,French,Con Patrocinador,Experto,Multijugador en Línea,Aventura,Aventura/Sandbox,Rust,7440,2331,17029065,309547,160360
+ID_TRANS_000019,2022-09-04,UCCleague,Russian,Con Patrocinador,Experto,Multijugador en Línea,Acción,Disparos/FPS,Counter-Strike: Global Offensive,105615,1435,125765910,8232341,229466
+ID_TRANS_000020,2022-09-04,Nikolian,English,Con Patrocinador,Aficionado,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,Minecraft,87270,110,10459155,157212,21918
+ID_TRANS_000021,2022-09-04,MohakK,English,Con Patrocinador,Aficionado,Multijugador en Línea,Acción,Disparos/FPS,Call Of Duty: Modern Warfare,71115,190,20338725,306550,15880
+ID_TRANS_000022,2022-09-04,Patriota,Portuguese,Con Patrocinador,Experto,Multijugador en Línea,Acción,Battle Royale,Fortnite,79890,2103,166351575,4930913,741841
+ID_TRANS_000023,2022-09-04,JLTomy,French,Con Patrocinador,Experto,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,Grand Theft Auto V,115560,10489,1237931400,14159808,458758
+ID_TRANS_000031,2022-09-05,Wahzdah,English,Con Patrocinador,Experto,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,Minecraft,95820,267,27387210,2100563,289078
+ID_TRANS_000033,2022-09-05,stupidsaywhatttv,English,Sin Patrocinador,Aficionado,Multijugador en Línea,Acción,Battle Royale,Fortnite,34950,278,11048325,20454,6156
+ID_TRANS_000032,2022-09-05,MittensGG,English,Con Patrocinador,Novato,Multijugador en Línea,Deporte,Deportes,Rocket League,88530,181,17322525,452251,59367
+ID_TRANS_000029,2022-09-05,Bajheera,English,Con Patrocinador,Experto,Multijugador en Línea,RPG,MMORPG,World of Warcraft,142410,544,83382720,6780296,477364
+ID_TRANS_000030,2022-09-05,Gladd,English,Con Patrocinador,Experto,"Un jugador, Multijugador en Línea",Acción,Disparos/FPS,Destiny 2,170460,2585,495693255,8298324,348469
+ID_TRANS_000027,2022-09-05,Yuggie_TV,English,Con Patrocinador,Avanzado,Transmisión en Vivo,Variado,Variado,Just Chatting,112800,1005,119027535,3040667,89300
+ID_TRANS_000026,2022-09-05,OgamingSC2,French,Con Patrocinador,Avanzado,Multijugador en Línea,Estrategia,Estrategia en Tiempo Real (RTS),StarCraft II,484020,549,254735985,15449780,108838
+ID_TRANS_000025,2022-09-05,lilsimsie,English,Con Patrocinador,Experto,Un jugador,Simulación,Simulación/Gestión,The Sims 4,43710,2267,108523230,2928720,270733
+ID_TRANS_000024,2022-09-05,TearlessRaptor,Italian,Con Patrocinador,Avanzado,"Un jugador, Multijugador en Línea",RPG,RPG,Pokémon Sword/Shield,66120,239,16057395,444612,80600
+ID_TRANS_000028,2022-09-05,RocketBaguette,French,Con Patrocinador,Avanzado,Multijugador en Línea,Deporte,Deportes,Rocket League,47175,1147,72628800,3989924,82105
+ID_TRANS_000045,2022-09-06,follow4ce,Russian,Con Patrocinador,Aficionado,Multijugador en Línea,Estrategia,MOBA,Dota 2,75705,136,11249085,337632,11190
+ID_TRANS_000043,2022-09-06,miabyte,English,Con Patrocinador,Aficionado,Multijugador en Línea,RPG,MMORPG de Acción,Warframe,71655,122,9411915,624693,20135
+ID_TRANS_000042,2022-09-06,Okonaye,French,Con Patrocinador,Novato,Multijugador en Línea,Estrategia,MOBA,League of Legends,46320,211,10239735,309460,41778
+ID_TRANS_000041,2022-09-06,fluyr,Portuguese,Con Patrocinador,Experto,Multijugador en Línea,Acción,Disparos/FPS,VALORANT,137625,273,44916855,1488736,152190
+ID_TRANS_000040,2022-09-06,AR12Gaming,English,Con Patrocinador,Experto,"Un jugador, Multijugador en Línea",Deporte,Deportes,Forza Horizon 4,22125,643,14165940,354321,247262
+ID_TRANS_000044,2022-09-06,ussrkhal,Russian,Sin Patrocinador,Aficionado,Multijugador en Línea,RPG,MMORPG,World of Warcraft,57630,211,12252555,358825,7713
+ID_TRANS_000038,2022-09-06,ZeplaHQ,English,Con Patrocinador,Novato,Multijugador en Línea,RPG,MMORPG,FINAL FANTASY XIV Online,53370,414,22596255,547661,48787
+ID_TRANS_000037,2022-09-06,TeamVASH,English,Con Patrocinador,Novato,Multijugador en Línea,Acción,Battle Royale,Fortnite,322110,79,25984680,345157,58353
+ID_TRANS_000036,2022-09-06,RiffTrax,English,Con Patrocinador,Avanzado,Transmisión en Vivo,Variado,Variado,Just Chatting,521115,556,289877850,2614841,81096
+ID_TRANS_000035,2022-09-06,TheExaL04,Spanish,Con Patrocinador,Experto,Multijugador en Línea,Acción,Battle Royale,Fortnite,12960,1031,14910855,584124,233158
+ID_TRANS_000034,2022-09-06,Jack,English,Con Patrocinador,Novato,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,Grand Theft Auto V,94935,287,30473160,444557,38907
+ID_TRANS_000039,2022-09-06,janix,English,Con Patrocinador,Aficionado,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,Grand Theft Auto V,49095,260,12388890,180726,22278
+ID_TRANS_000055,2022-09-07,AorusLeague,Spanish,Con Patrocinador,Novato,Multijugador en Línea,Acción,Disparos/FPS,Counter-Strike: Global Offensive,6000,1928,12412275,476403,46169
+ID_TRANS_000054,2022-09-07,CRACKHEBER,Spanish,Con Patrocinador,Aficionado,"Un jugador, Multijugador en Línea",Deporte,Deportes,FIFA 20,52455,248,14048955,164831,20661
+ID_TRANS_000053,2022-09-07,SnakeBite,English,Con Patrocinador,Novato,Multijugador en Línea,Acción,Disparos/FPS,Halo: The Master Chief Collection,74535,131,10480440,208578,31542
+ID_TRANS_000052,2022-09-07,Mad_Ruski,English,Con Patrocinador,Novato,Multijugador en Línea,Acción,Disparos/FPS,Escape From Tarkov,48045,169,9415995,278988,37246
+ID_TRANS_000051,2022-09-07,FuzeIII,French,Con Patrocinador,Experto,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,Minecraft,3645,3414,11975295,316032,233375
+ID_TRANS_000050,2022-09-07,발리폭스버경족보 (whrqh1),Korean,Sin Patrocinador,Aficionado,Multijugador en Línea,RPG,MMORPG,Lineage: The Blood Pledge,346335,45,17102850,261513,1142
+ID_TRANS_000048,2022-09-07,Mr_morjus,Russian,Con Patrocinador,Aficionado,Multijugador en Línea,Estrategia,MOBA,League of Legends,138885,64,9295590,209896,13266
+ID_TRANS_000047,2022-09-07,KeitaroTime,English,Con Patrocinador,Novato,"Multijugador Local, en Línea",Otros,Lucha,Super Smash Bros. Ultimate,41670,453,19038600,337638,52757
+ID_TRANS_000046,2022-09-07,POW3Rtv,Italian,Con Patrocinador,Experto,Multijugador en Línea,Acción,Disparos/FPS,Call Of Duty: Modern Warfare,184740,3732,725311140,24393197,1154352
+ID_TRANS_000049,2022-09-07,Vendetta_sc,Russian,Con Patrocinador,Aficionado,Multijugador en Línea,Cartas,Juegos de Cartas,Gwent: The Witcher Card Game,93150,136,12633525,431304,5466
+ID_TRANS_000062,2022-09-08,pubgmobileES,Spanish,Con Patrocinador,Aficionado,Multijugador en Línea,Acción,Battle Royale,PUBG Mobile,21285,650,14003340,1412174,19993
+ID_TRANS_000066,2022-09-08,RubenDeRonde,English,Con Patrocinador,Aficionado,Interactivo,Música,Música,Music,25425,718,23218635,7575136,16160
+ID_TRANS_000065,2022-09-08,Punz,English,Con Patrocinador,Experto,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,Minecraft,44100,815,55297650,1023764,178639
+ID_TRANS_000063,2022-09-08,kanagangtv,English,Con Patrocinador,Aficionado,Transmisión en Vivo,Variado,Variado,Just Chatting,30030,284,9102690,283883,14591
+ID_TRANS_000061,2022-09-08,DizzyKitten,English,Con Patrocinador,Experto,Transmisión en Vivo,Variado,Variado,Just Chatting,80550,1681,136007340,8919883,629162
+ID_TRANS_000064,2022-09-08,Feelink,Spanish,Con Patrocinador,Avanzado,Multijugador en Línea,Cartas,Juegos de Cartas,Hearthstone,44925,662,30897075,800339,78388
+ID_TRANS_000059,2022-09-08,Focus,English,Con Patrocinador,Novato,Multijugador en Línea,Acción,Battle Royale,Fortnite,100710,85,9306540,542855,29513
+ID_TRANS_000058,2022-09-08,BobbyPoffGaming,English,Con Patrocinador,Avanzado,Multijugador en Línea,Acción,Disparos/FPS,Call Of Duty: Modern Warfare,231990,1384,338734635,2420928,141788
+ID_TRANS_000060,2022-09-08,BadeschlappenLP,German,Con Patrocinador,Experto,Un jugador,Simulación,Simulación/Gestión,Football Manager 2020,96240,518,51665640,743754,163114
+ID_TRANS_000057,2022-09-08,Shonzo,English,Con Patrocinador,Novato,Interactivo,Otros,Arte,Art,123315,102,12733485,252031,37035
+ID_TRANS_000056,2022-09-08,Artesio,French,Con Patrocinador,Aficionado,Multijugador en Línea,RPG,MMORPG,The Elder Scrolls Online,107535,159,20538855,992671,7087
+ID_TRANS_000076,2022-09-09,GeeOhmTV,French,Con Patrocinador,Aficionado,Un jugador,RPG,RPG,Bleach: Brave Souls,114840,95,10740690,219285,10690
+ID_TRANS_000075,2022-09-09,지니어스매드 (genius_mad),Korean,Con Patrocinador,Aficionado,Multijugador en Línea,RPG,RPG,Path of Exile,136875,358,49366665,2115865,13973
+ID_TRANS_000074,2022-09-09,SkipNhO,Portuguese,Con Patrocinador,Experto,Multijugador en Línea,Acción,Disparos/FPS,Call Of Duty: Modern Warfare,140145,4051,606322560,15008051,1125122
+ID_TRANS_000073,2022-09-09,luxxbunny,English,Con Patrocinador,Experto,Multijugador en Línea,Estrategia,MOBA,League of Legends,76200,269,23135910,994274,173731
+ID_TRANS_000072,2022-09-09,APlatypuss,English,Con Patrocinador,Avanzado,"Un jugador, Multijugador en Línea",Acción,Disparos/FPS,Destiny 2,85890,116,11065845,758590,65993
+ID_TRANS_000070,2022-09-09,yowatchmewin,Italian,Con Patrocinador,Aficionado,"Un jugador, Multijugador en Línea",Cartas,Juegos de Cartas,Poker,74115,211,15693360,275983,8544
+ID_TRANS_000069,2022-09-09,TheRealMarzaa,Italian,Con Patrocinador,Experto,Multijugador en Línea,Acción,Battle Royale,Fortnite,93045,1658,157014405,3036560,551735
+ID_TRANS_000068,2022-09-09,Norby,French,Con Patrocinador,Novato,Multijugador en Línea,Acción,Battle Royale,Fortnite,133155,139,19510485,360163,48393
+ID_TRANS_000067,2022-09-09,Chachatoy,French,Con Patrocinador,Novato,Multijugador en Línea,Estrategia,MOBA,League of Legends,114045,93,11545410,1433750,25463
+ID_TRANS_000071,2022-09-09,SirSalty,English,Con Patrocinador,Aficionado,Multijugador en Línea,Cartas,Juegos de Cartas,Hearthstone,48375,373,19726200,419489,8630
+ID_TRANS_000081,2022-09-10,Khaldor,English,Con Patrocinador,Avanzado,Multijugador en Línea,Estrategia,MOBA,Heroes of the Storm,61305,536,37531200,866304,102280
+ID_TRANS_000082,2022-09-10,쫀지 (rozh3600),Korean,Sin Patrocinador,Aficionado,Multijugador en Línea,RPG,MMORPG,LOST ARK,142755,132,18600795,496447,4404
+ID_TRANS_000080,2022-09-10,Gaston,Spanish,Con Patrocinador,Avanzado,Multijugador en Línea,Acción,Battle Royale,Fortnite,51615,443,22082685,841975,92428
+ID_TRANS_000077,2022-09-10,ProgettoGaming,Italian,Con Patrocinador,Aficionado,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,ARK: Survival Evolved,141615,64,9581190,1137211,7785
+ID_TRANS_000078,2022-09-10,GuilleGiles,Spanish,Con Patrocinador,Avanzado,Transmisión en Vivo,Variado,Variado,Just Chatting,20235,1351,21196650,955346,117196
+ID_TRANS_000079,2022-09-10,coscu,Spanish,Con Patrocinador,Experto,Multijugador en Línea,Estrategia,MOBA,League of Legends,80520,10202,717634035,22695224,2132571
+ID_TRANS_000083,2022-09-11,LillyVinnily,English,Con Patrocinador,Novato,Transmisión en Vivo,Variado,Variado,Just Chatting,53730,174,9411060,247478,30908
+ID_TRANS_000084,2022-09-11,VorticoseLine75,English,Con Patrocinador,Novato,Multijugador en Línea,RPG,MMORPG de Acción,Warframe,123165,214,27827025,587415,25543
+ID_TRANS_000085,2022-09-11,tonkaaaaP,English,Con Patrocinador,Avanzado,"Un jugador, Multijugador en Línea",Cartas,Juegos de Cartas,Poker,4305,3079,13436895,259876,104533
+ID_TRANS_000086,2022-09-11,yoslayer0,Spanish,Con Patrocinador,Novato,Multijugador en Línea,Acción,Battle Royale,Fortnite,20430,445,9567840,122194,36406
+ID_TRANS_000087,2022-09-11,neeko,English,Con Patrocinador,Experto,Transmisión en Vivo,Variado,Variado,Just Chatting,45900,1011,36931875,3232948,270543
+ID_TRANS_000099,2022-09-12,Bonjwa,German,Con Patrocinador,Avanzado,Variado,Variado,Variado,Unlisted on Twitch,254580,1882,498938310,13966704,126298
+ID_TRANS_000098,2022-09-12,xandfps,Portuguese,Con Patrocinador,Avanzado,Multijugador en Línea,Acción,Disparos/FPS,VALORANT,66480,684,47896320,1343510,74217
+ID_TRANS_000097,2022-09-12,Apocalypto_12,English,Con Patrocinador,Avanzado,Multijugador en Línea,Otros,Casual/Minijuegos,Marbles On Stream,68355,196,15697515,432584,72690
+ID_TRANS_000096,2022-09-12,ryux,Spanish,Con Patrocinador,Experto,Multijugador en Línea,Acción,Battle Royale,Fortnite,117495,611,77725980,2724370,382236
+ID_TRANS_000094,2022-09-12,쉐리 (kss7749),Korean,Con Patrocinador,Experto,Transmisión en Vivo,Variado,Variado,Just Chatting,97560,2371,252974775,6440917,172045
+ID_TRANS_000095,2022-09-12,DreamHackCS,English,Con Patrocinador,Experto,Multijugador en Línea,Acción,Disparos/FPS,Counter-Strike: Global Offensive,236535,5957,868180170,24193613,1814756
+ID_TRANS_000092,2022-09-12,FrostPrime_,English,Con Patrocinador,Novato,Multijugador en Línea,Estrategia,MOBA,League of Legends,102330,189,20255580,391505,52269
+ID_TRANS_000091,2022-09-12,쏘담냥 (sso_dam),Korean,Con Patrocinador,Novato,Transmisión en Vivo,Variado,Variado,Just Chatting,114015,138,16249860,1246989,31051
+ID_TRANS_000090,2022-09-12,Blizy,English,Con Patrocinador,Novato,Multijugador en Línea,Acción,Disparos/FPS,VALORANT,54405,110,12019920,257116,38454
+ID_TRANS_000089,2022-09-12,Dex_tv,Italian,Con Patrocinador,Avanzado,"Un jugador, Multijugador en Línea",Deporte,Deportes,FIFA 20,138990,423,62516415,759153,68472
+ID_TRANS_000088,2022-09-12,TooseFN,Russian,Con Patrocinador,Experto,Multijugador en Línea,Acción,Battle Royale,Fortnite,35580,1477,52797375,3692531,207882
+ID_TRANS_000093,2022-09-12,NorkDorf,English,Sin Patrocinador,Novato,Multijugador en Línea,Acción,Disparos/FPS,Battlefield V,70860,209,15523920,121887,30450
+ID_TRANS_000108,2022-09-13,AladdinTV,German,Con Patrocinador,Avanzado,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,Grand Theft Auto V,136425,1346,186850290,4196779,111256
+ID_TRANS_000107,2022-09-13,DioudLoL,Portuguese,Con Patrocinador,Experto,Multijugador en Línea,Estrategia,MOBA,League of Legends,29040,326,10037025,350517,167382
+ID_TRANS_000106,2022-09-13,수련수련 (sooflower),Korean,Con Patrocinador,Experto,Transmisión en Vivo,Variado,Variado,Just Chatting,86550,1187,100279590,10208360,194334
+ID_TRANS_000105,2022-09-13,ESL_CSGO,English,Con Patrocinador,Experto,Multijugador en Línea,Acción,Disparos/FPS,Counter-Strike: Global Offensive,517965,9249,4764929775,126008641,4195657
+ID_TRANS_000103,2022-09-13,bpblives,Portuguese,Sin Patrocinador,Avanzado,Variado,Variado,Variado,Unlisted on Twitch,930,8856,9494325,302103,74371
+ID_TRANS_000102,2022-09-13,TheDigitalLink,English,Sin Patrocinador,Aficionado,Transmisión en Vivo,Variado,Variado,Just Chatting,439860,35,17111640,242132,7842
+ID_TRANS_000101,2022-09-13,Noserino,German,Con Patrocinador,Novato,Multijugador en Línea,Acción,Disparos/FPS,Overwatch,139410,202,29604645,2228903,28552
+ID_TRANS_000100,2022-09-13,BigNeo,French,Con Patrocinador,Novato,Multijugador en Línea,Acción,Disparos/FPS,Call Of Duty: Modern Warfare,130875,168,22079640,306516,30832
+ID_TRANS_000104,2022-09-13,유튜브스팁 (ytsteveb),Korean,Sin Patrocinador,Aficionado,Multijugador en Línea,Acción,Disparos/FPS,VALORANT,27855,596,17883840,203637,6552
+ID_TRANS_000115,2022-09-14,ESL_CSGO_FR,French,Con Patrocinador,Experto,Multijugador en Línea,Acción,Disparos/FPS,Counter-Strike: Global Offensive,70455,2448,156837975,4981756,199617
+ID_TRANS_000117,2022-09-14,NGKShodaime,French,Con Patrocinador,Aficionado,Multijugador en Línea,Estrategia,MOBA,League of Legends,77115,111,9478815,168050,11040
+ID_TRANS_000116,2022-09-14,Snoopyk70,Russian,Con Patrocinador,Aficionado,Multijugador en Línea,Acción,Disparos/FPS,VALORANT,82725,143,11744850,495532,19441
+ID_TRANS_000118,2022-09-14,Global_Citizen,English,Con Patrocinador,Aficionado,Interactivo,Música,Música,Music,735,36565,18668025,6163470,8117
+ID_TRANS_000114,2022-09-14,CaptainRichard,English,Con Patrocinador,Novato,Multijugador en Línea,Acción,Disparos/FPS,Star Citizen,61185,320,20341845,875108,30084
+ID_TRANS_000111,2022-09-14,나락호프 (asdn6388),Korean,Con Patrocinador,Aficionado,"Un jugador, Multijugador en Línea",Variado,Variado,Retro,163095,85,17163585,416900,18512
+ID_TRANS_000112,2022-09-14,Maximilian_DOOD,English,Con Patrocinador,Experto,Multijugador en Línea,Acción,Disparos/FPS,Call Of Duty: Modern Warfare,107985,9564,1040839515,15617768,852125
+ID_TRANS_000110,2022-09-14,KheZu,English,Con Patrocinador,Avanzado,Multijugador en Línea,Estrategia,MOBA,Dota 2,134655,928,134687820,2698890,124634
+ID_TRANS_000109,2022-09-14,RevedTV,German,Con Patrocinador,Experto,Transmisión en Vivo,Variado,Variado,Just Chatting,76215,1543,123732150,3870178,277097
+ID_TRANS_000113,2022-09-14,MeeresTV,English,Con Patrocinador,Aficionado,Multijugador en Línea,RPG,MMORPG,World of Warcraft,56730,235,12025815,557006,23660
+ID_TRANS_000119,2022-09-15,Tomorrowland,English,Con Patrocinador,Novato,Interactivo,Música,Música,Music,210600,274,24273720,5008757,29673
+ID_TRANS_000120,2022-09-15,Willokhlass,French,Con Patrocinador,Experto,Transmisión en Vivo,Variado,Variado,Just Chatting,87510,332,30762045,3267943,207143
+ID_TRANS_000121,2022-09-15,IlBertra,Italian,Con Patrocinador,Avanzado,Transmisión en Vivo,Variado,Variado,Just Chatting,39915,327,14804985,304276,68509
+ID_TRANS_000122,2022-09-15,Nikolarn,English,Con Patrocinador,Experto,Multijugador en Línea,Acción,Disparos/FPS,VALORANT,121500,2721,319932180,5873637,508563
+ID_TRANS_000123,2022-09-15,즐디 (zledihs),Korean,Con Patrocinador,Novato,Multijugador en Línea,Cartas,Juegos de Cartas,Hearthstone,109935,103,11309235,198179,28035
+ID_TRANS_000130,2022-09-16,bang,Korean,Con Patrocinador,Experto,Multijugador en Línea,Estrategia,MOBA,League of Legends,13395,1255,17948790,978376,369847
+ID_TRANS_000133,2022-09-16,S04TimLatka,German,Con Patrocinador,Avanzado,"Un jugador, Multijugador en Línea",Deporte,Deportes,FIFA 20,21600,934,20671410,319454,68131
+ID_TRANS_000132,2022-09-16,Squillakilla,English,Con Patrocinador,Avanzado,Un jugador,RPG,RPG,Dark Souls III,87930,818,71629035,1351172,140871
+ID_TRANS_000131,2022-09-16,swimstrim,English,Con Patrocinador,Avanzado,Multijugador en Línea,Cartas,Juegos de Cartas,Legends of Runeterra,106950,1605,181956135,5842318,145081
+ID_TRANS_000129,2022-09-16,YuriJoa,English,Con Patrocinador,Avanzado,Transmisión en Vivo,Variado,Variado,Just Chatting,77025,799,57639150,3665369,84830
+ID_TRANS_000126,2022-09-16,alexelcapo,Spanish,Con Patrocinador,Experto,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,Minecraft,68355,6646,448325160,14229432,705599
+ID_TRANS_000127,2022-09-16,purpgamingg,English,Sin Patrocinador,Aficionado,Multijugador en Línea,Acción,Battle Royale,Fortnite,52185,153,9406200,2312289,10571
+ID_TRANS_000128,2022-09-16,ChrisRM22,English,Con Patrocinador,Aficionado,"Un jugador, Multijugador en Línea",Deporte,Deportes,FIFA 20,70740,116,9450105,148681,18246
+ID_TRANS_000125,2022-09-16,jessutv,English,Con Patrocinador,Novato,Interactivo,Música,Música,Music,29175,570,22309830,590991,41706
+ID_TRANS_000124,2022-09-16,Cliffy,English,Con Patrocinador,Novato,"Un jugador, Multijugador Local",Otros,Plataformas,Super Mario Maker 2,119670,143,18170265,354307,29811
+ID_TRANS_000134,2022-09-17,Dekarldent,German,Con Patrocinador,Avanzado,Transmisión en Vivo,Variado,Variado,Just Chatting,71265,2015,144661185,1829085,67944
+ID_TRANS_000135,2022-09-17,susu_jpg,English,Con Patrocinador,Avanzado,Transmisión en Vivo,Variado,Variado,Just Chatting,24690,397,9594780,447201,71998
+ID_TRANS_000136,2022-09-17,Wingsofdeath,English,Con Patrocinador,Experto,Multijugador en Línea,Estrategia,MOBA,League of Legends,146055,1329,203470560,2437733,473372
+ID_TRANS_000137,2022-09-17,단장002 (dxj002),Korean,Sin Patrocinador,Aficionado,Transmisión en Vivo,Variado,Variado,Just Chatting,50280,211,12478830,675342,21713
+ID_TRANS_000138,2022-09-17,SmashFactorGaming,Spanish,Con Patrocinador,Aficionado,"Multijugador Local, en Línea",Otros,Lucha,Super Smash Bros. Ultimate,118395,155,19738605,4894677,15659
+ID_TRANS_000139,2022-09-17,lol_Gosha,Russian,Sin Patrocinador,Aficionado,Multijugador en Línea,RPG,MMORPG,Lineage II: The Chaotic Throne - The 1st Throne: The Kamael,97485,111,11998575,554174,14297
+ID_TRANS_000140,2022-09-17,13tvhd,English,Sin Patrocinador,Aficionado,Variado,Variado,Variado,Unlisted on Twitch,59295,447,25897740,1217964,569
+ID_TRANS_000141,2022-09-17,golden_richardtv,English,Sin Patrocinador,Novato,Multijugador en Línea,Acción,Battle Royale,Fortnite,114135,657,70258590,59411,52396
+ID_TRANS_000150,2022-09-18,dota2mc_ru3,Russian,Con Patrocinador,Novato,Multijugador en Línea,Estrategia,MOBA,Dota 2,11955,4476,56643525,4196970,57943
+ID_TRANS_000149,2022-09-18,brlkgames,Portuguese,Sin Patrocinador,Novato,Transmisión en Vivo,Variado,Variado,Just Chatting,84570,72,9568770,426399,52974
+ID_TRANS_000148,2022-09-18,cogu,Portuguese,Con Patrocinador,Experto,Multijugador en Línea,Acción,Disparos/FPS,Counter-Strike: Global Offensive,111345,745,89656560,3601467,165203
+ID_TRANS_000147,2022-09-18,UMotivoMTG,Portuguese,Con Patrocinador,Aficionado,Multijugador en Línea,Cartas,Juegos de Cartas,Magic: The Gathering,56325,212,12517155,291892,22115
+ID_TRANS_000142,2022-09-18,NerdEngenheiro,Portuguese,Con Patrocinador,Avanzado,Multijugador en Línea,Acción,Disparos/FPS,Tom Clancy,67965,281,19633380,461084,94114
+ID_TRANS_000145,2022-09-18,JavifC,Spanish,Con Patrocinador,Aficionado,Multijugador en Línea,RPG,MMORPG,Black Desert Online,119835,94,12049830,289321,7980
+ID_TRANS_000144,2022-09-18,thedragonfeeney,English,Con Patrocinador,Avanzado,"Un jugador, Multijugador Local",Otros,Plataformas,Super Mario Maker 2,103440,794,83205540,2291576,92244
+ID_TRANS_000143,2022-09-18,simarchy,English,Con Patrocinador,Novato,"Un jugador, Multijugador Local, en Línea",Aventura,Aventura/Sandbox,Animal Crossing: New Horizons,97170,202,20894835,1205716,26113
+ID_TRANS_000146,2022-09-18,Salvyyy,English,Con Patrocinador,Aficionado,Multijugador en Línea,Cartas,Juegos de Cartas,Teamfight Tactics,66180,331,23050710,472817,15664
+ID_TRANS_000157,2022-09-19,puncayshun,English,Con Patrocinador,Avanzado,Un jugador,Otros,Plataformas,Super Mario 64,66480,236,16003995,1067483,100429
+ID_TRANS_000161,2022-09-19,AsmodaiTV,English,Con Patrocinador,Experto,Multijugador en Línea,Cartas,Juegos de Cartas,Hearthstone,137925,2694,377696580,6494618,249710
+ID_TRANS_000160,2022-09-19,Clintus,English,Con Patrocinador,Novato,"Un jugador, Multijugador en Línea",Acción,Disparos/FPS,Destiny 2,106995,164,17395050,3526842,55323
+ID_TRANS_000159,2022-09-19,GoodTimesWithScar,English,Con Patrocinador,Experto,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,Minecraft,6285,4355,26135175,486406,200571
+ID_TRANS_000156,2022-09-19,TheLoyalPatriot,English,Con Patrocinador,Avanzado,Multijugador en Línea,Aventura,Aventura/Sandbox,DayZ,95025,233,22276530,288678,70277
+ID_TRANS_000158,2022-09-19,SleepBoy,Russian,Sin Patrocinador,Aficionado,Transmisión en Vivo,Variado,Variado,Just Chatting,100965,129,15943125,50073,1230
+ID_TRANS_000154,2022-09-19,iamelisabete,English,Sin Patrocinador,Novato,Transmisión en Vivo,Variado,Variado,ASMR,65070,195,15765570,594862,52478
+ID_TRANS_000153,2022-09-19,IngredyBarbi,Portuguese,Con Patrocinador,Experto,Multijugador en Línea,Acción,Battle Royale,Garena Free Fire,39930,1876,76499010,1668012,262916
+ID_TRANS_000152,2022-09-19,calango,Portuguese,Con Patrocinador,Experto,Transmisión en Vivo,Variado,Variado,Just Chatting,87600,2117,187670370,5125271,888015
+ID_TRANS_000151,2022-09-19,arionfoxtv,Portuguese,Sin Patrocinador,Aficionado,Variado,Variado,Variado,Unlisted on Twitch,60765,275,17216235,63542,1314
+ID_TRANS_000155,2022-09-19,JoshOG,English,Con Patrocinador,Experto,Multijugador en Línea,Acción,Disparos/FPS,Call Of Duty: Modern Warfare,156735,3018,513872070,23086165,1742509
+ID_TRANS_000162,2022-09-20,NeckoLol,Spanish,Con Patrocinador,Avanzado,Multijugador en Línea,Estrategia,MOBA,League of Legends,19050,629,12388950,512491,113838
+ID_TRANS_000163,2022-09-20,berribae,Spanish,Con Patrocinador,Avanzado,Transmisión en Vivo,Variado,Variado,Just Chatting,37500,680,24119505,1451696,69965
+ID_TRANS_000164,2022-09-20,Scxrlet64,English,Con Patrocinador,Novato,Transmisión en Vivo,Variado,Variado,Just Chatting,67845,173,12518850,753357,38552
+ID_TRANS_000165,2022-09-20,AngoryTom,English,Con Patrocinador,Novato,Un jugador,Aventura,Aventura/Sandbox,RimWorld,19095,643,12583290,269658,37140
+ID_TRANS_000166,2022-09-20,Vieparlafoi,English,Con Patrocinador,Novato,"Un jugador, Multijugador Local, en Línea",Aventura,Aventura/Sandbox,Animal Crossing: New Horizons,64755,165,11461215,3299608,49158
+ID_TRANS_000167,2022-09-20,ZakvielChannel,Russian,Sin Patrocinador,Avanzado,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,Minecraft,59940,1186,75451065,1419679,111321
+ID_TRANS_000168,2022-09-20,sector_esports,Russian,Con Patrocinador,Aficionado,Multijugador en Línea,Acción,Disparos/FPS,Counter-Strike: Global Offensive,10800,2162,22595790,1896197,16205
+ID_TRANS_000174,2022-09-21,RelaxBeats,English,Con Patrocinador,Experto,Interactivo,Música,Música,Music,519570,227,118640445,1136744,176798
+ID_TRANS_000173,2022-09-21,NLCLoL,English,Con Patrocinador,Novato,Multijugador en Línea,Estrategia,MOBA,League of Legends,22140,966,22881855,3916058,40212
+ID_TRANS_000172,2022-09-21,INFILTRATION85,Korean,Sin Patrocinador,Avanzado,"Multijugador Local, en Línea",Otros,Lucha,Granblue Fantasy: Versus,16275,585,11127480,322339,69601
+ID_TRANS_000171,2022-09-21,마린22 (marin000),Korean,Con Patrocinador,Avanzado,Multijugador en Línea,Estrategia,MOBA,League of Legends,58425,613,38430150,1444405,90875
+ID_TRANS_000169,2022-09-21,TrulyTenzin,English,Con Patrocinador,Aficionado,Multijugador en Línea,Estrategia,MOBA,League of Legends,81870,133,11784990,407582,21219
+ID_TRANS_000170,2022-09-21,ZeRoyalViking,English,Con Patrocinador,Avanzado,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,Minecraft,57210,334,20863800,327305,76035
+ID_TRANS_000175,2022-09-22,ArtsyVRC,English,Sin Patrocinador,Novato,Multijugador en Línea,Simulación,Simulación/Gestión,VRChat,46695,284,13061490,316422,44652
+ID_TRANS_000176,2022-09-22,Capp,English,Con Patrocinador,Novato,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,Grand Theft Auto V,51195,556,33672000,355429,27049
+ID_TRANS_000177,2022-09-22,Dashy,English,Con Patrocinador,Experto,Multijugador en Línea,Acción,Disparos/FPS,Call Of Duty: Modern Warfare,30165,1312,45665145,3331592,190124
+ID_TRANS_000178,2022-09-22,노력왕먼치 (munchikinhwa),Korean,Con Patrocinador,Novato,Multijugador en Línea,RPG,MMORPG,MapleStory,208875,113,24307020,924082,34070
+ID_TRANS_000179,2022-09-22,LiNkzr,English,Con Patrocinador,Avanzado,Multijugador en Línea,Acción,Disparos/FPS,Overwatch,100110,288,30567030,643126,81245
+ID_TRANS_000180,2022-09-22,모잉이_ (kr_elice),Korean,Con Patrocinador,Avanzado,Transmisión en Vivo,Variado,Variado,Just Chatting,58620,335,19039950,1114585,70437
+ID_TRANS_000181,2022-09-22,QuickyBaby,English,Con Patrocinador,Experto,Multijugador en Línea,Simulación,Simulación/Gestión,World of Tanks,111135,2287,258302955,5553918,422157
+ID_TRANS_000182,2022-09-22,Arthur_Lanches,Portuguese,Con Patrocinador,Avanzado,Multijugador en Línea,Estrategia,MOBA,League of Legends,16740,729,13238685,504042,81144
+ID_TRANS_000183,2022-09-22,파카9999 (paka9999),Korean,Con Patrocinador,Avanzado,Multijugador en Línea,Estrategia,MOBA,League of Legends,40575,3451,139833435,3175476,89688
+ID_TRANS_000189,2022-09-23,Kazu_O,French,Con Patrocinador,Aficionado,Multijugador en Línea,Estrategia,Estrategia en Tiempo Real (RTS),Summoners War: Sky Arena,105780,102,11256165,233764,12968
+ID_TRANS_000191,2022-09-23,헤징 (hejin0_0),Korean,Con Patrocinador,Avanzado,Multijugador en Línea,Estrategia,MOBA,League of Legends,118800,1088,128802120,6146870,130634
+ID_TRANS_000188,2022-09-23,dersin2k,Portuguese,Con Patrocinador,Avanzado,Multijugador en Línea,Estrategia,MOBA,League of Legends,88410,298,30123180,1041168,74131
+ID_TRANS_000190,2022-09-23,itsShayton,Spanish,Con Patrocinador,Avanzado,Multijugador en Línea,Acción,Disparos/FPS,VALORANT,173535,206,37320285,3296945,77774
+ID_TRANS_000186,2022-09-23,chocoTaco,English,Con Patrocinador,Experto,Multijugador en Línea,Acción,Battle Royale,PLAYERUNKNOWN,158025,3771,584504355,22581039,1157747
+ID_TRANS_000184,2022-09-23,Deepshades,English,Con Patrocinador,Novato,Multijugador en Línea,RPG,MMORPG,World of Warcraft,39765,356,13088625,547744,56210
+ID_TRANS_000187,2022-09-23,Roidie,English,Con Patrocinador,Novato,Multijugador en Línea,RPG,MMORPG,Old School RuneScape,99450,481,47564085,861049,33235
+ID_TRANS_000185,2022-09-23,ElLeon,English,Con Patrocinador,Avanzado,Multijugador en Línea,Estrategia,MOBA,SMITE,140520,312,46456665,1598277,63432
+ID_TRANS_000192,2022-09-24,Day9tv,English,Con Patrocinador,Experto,Multijugador en Línea,Cartas,Juegos de Cartas,Magic: The Gathering,60870,2149,132085485,2280894,498257
+ID_TRANS_000193,2022-09-24,brak2K,French,Con Patrocinador,Avanzado,"Un jugador, Multijugador en Línea",Deporte,Deportes,FIFA 20,55530,434,22761840,510231,79399
+ID_TRANS_000194,2022-09-24,Fizz_XI,English,Con Patrocinador,Avanzado,Multijugador en Línea,Acción,Disparos/FPS,Call Of Duty: Modern Warfare,94125,110,11526885,175165,60059
+ID_TRANS_000195,2022-09-24,bigbmusic247,English,Sin Patrocinador,Aficionado,Interactivo,Música,Música,Music,71085,150,11995995,713461,1477
+ID_TRANS_000196,2022-09-24,CyberLiveArena1,English,Sin Patrocinador,Aficionado,"Un jugador, Multijugador en Línea",Deporte,Deportes,FIFA 20,286305,245,78473520,24318386,12223
+ID_TRANS_000197,2022-09-24,eaJParkOfficial,English,Sin Patrocinador,Avanzado,Transmisión en Vivo,Variado,Variado,Just Chatting,1650,7429,12064575,319709,106360
+ID_TRANS_000198,2022-09-24,gafallen,Portuguese,Con Patrocinador,Experto,Multijugador en Línea,Acción,Disparos/FPS,Counter-Strike: Global Offensive,14160,6954,76822725,3993831,986521
+ID_TRANS_000199,2022-09-24,UnknowMySkillTV,French,Con Patrocinador,Avanzado,Multijugador en Línea,Acción,Battle Royale,Fortnite,60765,217,14145360,508825,139951
+ID_TRANS_000200,2022-09-24,GCDTV,English,Con Patrocinador,Novato,Multijugador en Línea,RPG,MMORPG,World of Warcraft,8040,1723,13829055,1276692,59051
+ID_TRANS_000201,2022-09-24,Lepandaman,French,Con Patrocinador,Novato,Transmisión en Vivo,Variado,Variado,Just Chatting,45735,421,19028610,397991,45328
+ID_TRANS_000205,2022-09-25,Sertuss,German,Con Patrocinador,Novato,Multijugador en Línea,Estrategia,MOBA,League of Legends,56355,389,22870215,511270,37849
+ID_TRANS_000206,2022-09-25,Allen,Russian,Con Patrocinador,Novato,Multijugador en Línea,Acción,Disparos/FPS,Call Of Duty: Modern Warfare,21120,801,19153860,89712,42444
+ID_TRANS_000203,2022-09-25,HugoDelire,French,Con Patrocinador,Avanzado,Transmisión en Vivo,Variado,Variado,Just Chatting,10785,1009,10931205,373015,106781
+ID_TRANS_000202,2022-09-25,robertpg,Spanish,Con Patrocinador,Experto,"Un jugador, Multijugador en Línea",Deporte,Deportes,FIFA 20,4395,7082,31693065,690638,323824
+ID_TRANS_000204,2022-09-25,CRACKHEBER,Spanish,Con Patrocinador,Aficionado,"Un jugador, Multijugador en Línea",Deporte,Deportes,FIFA 20,52455,248,14048955,164831,20661
+ID_TRANS_000207,2022-09-26,TigerWriter,English,Con Patrocinador,Avanzado,Transmisión en Vivo,Variado,Variado,Just Chatting,80865,152,13217100,243354,94605
+ID_TRANS_000208,2022-09-26,YAR_ki,Russian,Con Patrocinador,Novato,Un jugador,Estrategia,Estrategia por Turnos (TBS),Heroes of Might and Magic III: The Shadow of Death,167910,469,83436255,5036046,26859
+ID_TRANS_000209,2022-09-26,SparkeRcs,Italian,Con Patrocinador,Aficionado,Multijugador en Línea,Acción,Disparos/FPS,VALORANT,56625,170,10219995,713894,8647
+ID_TRANS_000210,2022-09-26,DorkanTV,Spanish,Sin Patrocinador,Novato,Multijugador en Línea,Acción,Battle Royale,Fortnite,105090,92,9479700,298307,28279
+ID_TRANS_000211,2022-09-26,sneakylol,English,Con Patrocinador,Experto,Multijugador en Línea,Estrategia,MOBA,League of Legends,202605,6637,1311964815,19642877,1685773
+ID_TRANS_000212,2022-09-26,Lulaboo,English,Con Patrocinador,Novato,Interactivo,Otros,Comida y Bebida,Food & Drink,53175,167,10387200,904384,31227
+ID_TRANS_000213,2022-09-26,Nahj,English,Con Patrocinador,Novato,Multijugador en Línea,RPG,MMORPG,World of Warcraft,41580,215,10233000,333300,36102
+ID_TRANS_000214,2022-09-26,Bwipolol,English,Con Patrocinador,Avanzado,Multijugador en Línea,Estrategia,MOBA,League of Legends,5250,2474,13461630,447390,75624
+ID_TRANS_000220,2022-09-27,Th3Jez,English,Con Patrocinador,Avanzado,"Un jugador, Multijugador en Línea",Acción,Disparos/FPS,Destiny 2,22785,937,21346275,375013,140455
+ID_TRANS_000223,2022-09-27,osulive,English,Con Patrocinador,Experto,"Un jugador, Multijugador en Línea",Música,Música,osu!,17970,1121,21545130,998389,175794
+ID_TRANS_000222,2022-09-27,Treebeard,English,Con Patrocinador,Novato,Multijugador en Línea,Cartas,Juegos de Cartas,Teamfight Tactics,162285,131,24963495,288657,25574
+ID_TRANS_000221,2022-09-27,BRACUBI,Portuguese,Con Patrocinador,Novato,Multijugador en Línea,Estrategia,MOBA,Dota 2,110340,153,17860335,1404812,37475
+ID_TRANS_000224,2022-09-27,Xednim,English,Con Patrocinador,Novato,Multijugador en Línea,Acción,Battle Royale,Apex Legends,141735,267,40405545,537871,44984
+ID_TRANS_000219,2022-09-27,trickygym,English,Con Patrocinador,Aficionado,Multijugador en Línea,Cartas,Juegos de Cartas,Pokémon Trading Card Game Online,69705,209,15549420,196403,14370
+ID_TRANS_000217,2022-09-27,Everyeyeit,Italian,Con Patrocinador,Avanzado,Transmisión en Vivo,Variado,Variado,Just Chatting,143400,1366,219766770,60617571,95760
+ID_TRANS_000216,2022-09-27,Carreraaa,Spanish,Con Patrocinador,Experto,Transmisión en Vivo,Variado,Variado,Just Chatting,37455,2076,86059125,2585008,365390
+ID_TRANS_000215,2022-09-27,A_Jaxx,English,Con Patrocinador,Avanzado,Multijugador en Línea,Acción,Disparos/FPS,VALORANT,105315,93,10768350,125998,66151
+ID_TRANS_000218,2022-09-27,M1NDR,English,Con Patrocinador,Avanzado,Multijugador en Línea,Aventura,Aventura/Sandbox,DayZ,86430,234,21411750,460433,86581
+ID_TRANS_000235,2022-09-28,김나는 (kimnaa324),Korean,Con Patrocinador,Aficionado,Multijugador en Línea,RPG,MMORPG,World of Warcraft,98535,112,11392455,648968,7754
+ID_TRANS_000234,2022-09-28,CyberLiveArena4,English,Sin Patrocinador,Aficionado,"Un jugador, Multijugador en Línea",Deporte,Deportes,NBA 2K20,279645,172,53643900,8265322,9356
+ID_TRANS_000233,2022-09-28,Monagua,Portuguese,Con Patrocinador,Novato,Multijugador en Línea,Estrategia,Estrategia en Tiempo Real (RTS),Summoners War: Sky Arena,96990,355,30462210,666097,27985
+ID_TRANS_000232,2022-09-28,Yekais,French,Sin Patrocinador,Novato,Transmisión en Vivo,Variado,Variado,Just Chatting,39945,294,13241565,252406,40697
+ID_TRANS_000231,2022-09-28,Wolfabelle,English,Con Patrocinador,Novato,Transmisión en Vivo,Variado,Variado,Just Chatting,66330,215,20480505,776646,44910
+ID_TRANS_000236,2022-09-28,KarmaDoc,Spanish,Con Patrocinador,Aficionado,"Un jugador, Multijugador Local",Simulación,Simulación/Gestión,Stardew Valley,109035,183,20442870,1688756,9658
+ID_TRANS_000229,2022-09-28,CapcomFighters,English,Con Patrocinador,Experto,"Multijugador Local, en Línea",Otros,Lucha,Street Fighter V,23925,5345,187067085,14495910,354351
+ID_TRANS_000228,2022-09-28,UrbanOrder,English,Sin Patrocinador,Aficionado,Interactivo,Música,Música,Music,392760,51,20026770,821271,9238
+ID_TRANS_000227,2022-09-28,m4dshaw,Russian,Con Patrocinador,Novato,Multijugador en Línea,Acción,Battle Royale,PLAYERUNKNOWN,139680,381,52010835,3003558,36570
+ID_TRANS_000226,2022-09-28,BlitzStream,French,Con Patrocinador,Novato,"Un jugador, Multijugador en Línea",Otros,Juegos de Mesa,Chess,74310,627,48086010,3728569,30960
+ID_TRANS_000225,2022-09-28,nenem_xd,Portuguese,Sin Patrocinador,Aficionado,"Un jugador, Multijugador en Línea",RPG,RPG,Tibia,41415,490,22620300,1184752,22098
+ID_TRANS_000230,2022-09-28,Foxtrot92th,Russian,Con Patrocinador,Novato,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,Grand Theft Auto V,82020,212,18122640,309374,45715
+ID_TRANS_000246,2022-09-29,홍방장 (game2eye),Korean,Con Patrocinador,Experto,Un jugador,Aventura,Aventura/Sandbox,The Long Dark,119310,1757,224441955,6222275,185065
+ID_TRANS_000245,2022-09-29,Xynode,English,Con Patrocinador,Aficionado,Multijugador en Línea,RPG,MMORPG,The Elder Scrolls Online,34695,568,20164680,3817978,18701
+ID_TRANS_000244,2022-09-29,Fairlight_Excalibur,English,Con Patrocinador,Experto,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,Grand Theft Auto V,173715,1213,212677695,1659444,407081
+ID_TRANS_000243,2022-09-29,SwelteringMuffin,English,Con Patrocinador,Aficionado,Multijugador en Línea,Estrategia,MOBA,League of Legends,166770,151,24305490,1011401,6773
+ID_TRANS_000242,2022-09-29,Kronovi,English,Con Patrocinador,Experto,Multijugador en Línea,Deporte,Deportes,Rocket League,9465,996,10298055,258825,278669
+ID_TRANS_000241,2022-09-29,amante_cod,Italian,Con Patrocinador,Novato,Multijugador en Línea,Acción,Disparos/FPS,Call Of Duty: Modern Warfare,48165,257,13173045,821394,40836
+ID_TRANS_000239,2022-09-29,Carreraaa,Spanish,Con Patrocinador,Experto,Transmisión en Vivo,Variado,Variado,Just Chatting,37455,2076,86059125,2585008,365390
+ID_TRANS_000238,2022-09-29,Maniac_3D,Spanish,Con Patrocinador,Aficionado,Multijugador en Línea,RPG,MMORPG,Black Desert Online,168600,146,27148785,3227028,9503
+ID_TRANS_000237,2022-09-29,Back2Warcraft,German,Con Patrocinador,Avanzado,Multijugador en Línea,Estrategia,Estrategia en Tiempo Real (RTS),Warcraft III,87975,1781,167550165,3882050,96639
+ID_TRANS_000240,2022-09-29,Monagua,Portuguese,Con Patrocinador,Novato,Multijugador en Línea,Estrategia,Estrategia en Tiempo Real (RTS),Summoners War: Sky Arena,96990,355,30462210,666097,27985
+ID_TRANS_000253,2022-09-30,Bummacs,Italian,Con Patrocinador,Avanzado,Multijugador en Línea,Acción,Disparos/FPS,Tom Clancy,24435,358,9291450,134705,62366
+ID_TRANS_000257,2022-09-30,DOTA2EZ25,Russian,Con Patrocinador,Novato,Multijugador en Línea,Estrategia,MOBA,Dota 2,55995,193,11283645,651873,35499
+ID_TRANS_000256,2022-09-30,spkanepex,English,Sin Patrocinador,Aficionado,Variado,Variado,Variado,Unlisted on Twitch,18150,593,16824390,1094980,7337
+ID_TRANS_000254,2022-09-30,Seum,English,Con Patrocinador,Avanzado,"Un jugador, Multijugador Local, en Línea",Aventura,Aventura/Sandbox,Animal Crossing: New Horizons,60270,247,16223190,919536,70503
+ID_TRANS_000252,2022-09-30,UnRooolie,English,Con Patrocinador,Avanzado,Multijugador en Línea,Acción,Disparos/FPS,Call Of Duty: Modern Warfare,90930,317,33836760,3386506,60372
+ID_TRANS_000255,2022-09-30,스테로이드_ (stero2d),Korean,Con Patrocinador,Aficionado,Multijugador en Línea,RPG,RPG,Path of Exile,150180,194,30353010,702453,8348
+ID_TRANS_000250,2022-09-30,andravix,French,Sin Patrocinador,Aficionado,Interactivo,Música,Música,Music,334950,31,11046000,80876,3998
+ID_TRANS_000249,2022-09-30,horoowolf,Spanish,Con Patrocinador,Aficionado,Multijugador en Línea,RPG,MMORPG,Black Desert Online,97125,150,15052620,408890,6663
+ID_TRANS_000251,2022-09-30,Rhykker,English,Con Patrocinador,Avanzado,"Un jugador, Multijugador en Línea",RPG,RPG,Diablo III,54720,451,24127680,794511,116879
+ID_TRANS_000248,2022-09-30,Sinedd92,Russian,Con Patrocinador,Avanzado,Multijugador en Línea,Cartas,Juegos de Cartas,Hearthstone,88365,1149,101492745,5460656,78801
+ID_TRANS_000247,2022-09-30,XiiiOliver,Portuguese,Sin Patrocinador,Aficionado,Transmisión en Vivo,Variado,Variado,Just Chatting,129570,190,26906865,163422,4098
+ID_TRANS_000266,2022-10-01,pescocofino,Portuguese,Con Patrocinador,Experto,Transmisión en Vivo,Variado,Variado,Just Chatting,121050,780,85404765,2768637,274061
+ID_TRANS_000265,2022-10-01,Kwitty23,English,Con Patrocinador,Novato,Un jugador,RPG,RPG,Dark Souls III,124545,409,51526590,3960598,58781
+ID_TRANS_000264,2022-10-01,P4wnyhof,English,Con Patrocinador,Experto,Multijugador en Línea,Acción,Disparos/FPS,Call Of Duty: Modern Warfare,182670,1279,234622395,7326999,491272
+ID_TRANS_000263,2022-10-01,EinQuantumPro,German,Con Patrocinador,Novato,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,Fallout 76,112440,198,23080995,3051334,54455
+ID_TRANS_000267,2022-10-01,Llobeti4,Spanish,Con Patrocinador,Experto,Multijugador en Línea,Acción,Battle Royale,Fortnite,115320,4478,525943125,13296707,840871
+ID_TRANS_000261,2022-10-01,가이코 (pymyp2288),Korean,Con Patrocinador,Novato,Transmisión en Vivo,Variado,Variado,Just Chatting,83325,133,10997835,325692,43095
+ID_TRANS_000260,2022-10-01,ARSARTone,Russian,Con Patrocinador,Novato,Multijugador en Línea,Acción,Disparos/FPS,Counter-Strike: Global Offensive,80310,155,13221045,693492,54265
+ID_TRANS_000259,2022-10-01,Pixlriffs,English,Con Patrocinador,Avanzado,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,Minecraft,25350,620,15748275,388920,82588
+ID_TRANS_000258,2022-10-01,TrymacsKaktusKoenig,German,Sin Patrocinador,Avanzado,Variado,Variado,Variado,Unlisted on Twitch,76635,438,32802810,470949,70534
+ID_TRANS_000262,2022-10-01,AxeelFN,Spanish,Con Patrocinador,Avanzado,Multijugador en Línea,Acción,Battle Royale,Fortnite,71400,343,29351700,1369127,131663
+ID_TRANS_000278,2022-10-02,Elesky25,Spanish,Con Patrocinador,Novato,Interactivo,Música,Música,Music,47385,426,20808435,1647017,57206
+ID_TRANS_000277,2022-10-02,숲의샤리네 (silversigle),Korean,Sin Patrocinador,Aficionado,Multijugador en Línea,RPG,MMORPG,LOST ARK,124905,176,23996250,617283,5905
+ID_TRANS_000276,2022-10-02,Plalism,English,Con Patrocinador,Experto,Multijugador en Línea,Acción,Battle Royale,Fortnite,70215,1012,72987855,1508251,262246
+ID_TRANS_000275,2022-10-02,Antrax,Spanish,Con Patrocinador,Experto,Transmisión en Vivo,Variado,Variado,Just Chatting,8895,860,11870535,363480,220386
+ID_TRANS_000274,2022-10-02,CripsyTV,English,Con Patrocinador,Novato,"Un jugador, Multijugador en Línea",Deporte,Deportes,FIFA 20,89325,160,14868810,171503,28540
+ID_TRANS_000272,2022-10-02,litahry,English,Con Patrocinador,Novato,Transmisión en Vivo,Variado,Variado,Just Chatting,36540,290,12043110,808173,37682
+ID_TRANS_000271,2022-10-02,Anfieldw,English,Con Patrocinador,Novato,Multijugador en Línea,RPG,MMORPG,Black Desert Online,105240,122,14635755,417242,37506
+ID_TRANS_000270,2022-10-02,Mirza_Jahic,German,Con Patrocinador,Experto,"Un jugador, Multijugador en Línea",Deporte,Deportes,FIFA 20,52815,1454,79636935,2769865,176972
+ID_TRANS_000269,2022-10-02,Kosuke,French,Con Patrocinador,Novato,Multijugador en Línea,Acción,Survival Horror,Dead by Daylight,61155,218,13370130,280385,36101
+ID_TRANS_000268,2022-10-02,PokerStaples247,English,Sin Patrocinador,Aficionado,"Un jugador, Multijugador en Línea",Cartas,Juegos de Cartas,Poker,519000,16,8944605,194215,11712
+ID_TRANS_000273,2022-10-02,Loserfruit,English,Con Patrocinador,Experto,Multijugador en Línea,Acción,Battle Royale,Fortnite,102990,2202,259639065,12999027,2017326
+ID_TRANS_000284,2022-10-03,GuhRL,English,Con Patrocinador,Novato,Multijugador en Línea,Acción,Battle Royale,Apex Legends,155475,175,27761550,826162,49580
+ID_TRANS_000286,2022-10-03,jukes,Portuguese,Con Patrocinador,Experto,Multijugador en Línea,Estrategia,MOBA,League of Legends,83175,8233,684989805,21108143,1386460
+ID_TRANS_000283,2022-10-03,Anil,French,Con Patrocinador,Experto,Multijugador en Línea,Acción,Disparos/FPS,Rogue Company,13500,594,10382400,924472,170749
+ID_TRANS_000285,2022-10-03,FustyLugsVR,English,Con Patrocinador,Aficionado,Multijugador en Línea,Simulación,Simulación/Gestión,VRChat,87150,123,10885050,226344,18362
+ID_TRANS_000281,2022-10-03,ProdigyAcess,English,Con Patrocinador,Novato,Multijugador en Línea,Acción,Battle Royale,Apex Legends,159390,70,15433605,346528,54600
+ID_TRANS_000280,2022-10-03,CooLifeGame,Spanish,Con Patrocinador,Experto,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,Grand Theft Auto V,75210,4167,333277155,10172899,417856
+ID_TRANS_000279,2022-10-03,imfrosk,English,Con Patrocinador,Novato,Multijugador en Línea,Estrategia,MOBA,League of Legends,9615,1134,10457910,324428,37915
+ID_TRANS_000282,2022-10-03,iainLee,English,Con Patrocinador,Aficionado,Transmisión en Vivo,Variado,Variado,Just Chatting,29295,370,13128285,956322,11585
+ID_TRANS_000287,2022-10-04,esl_asia,English,Con Patrocinador,Aficionado,Multijugador en Línea,Estrategia,MOBA,Dota 2,11790,1922,19779450,1019008,18076
+ID_TRANS_000288,2022-10-04,GAECHKATM,Russian,Con Patrocinador,Avanzado,Transmisión en Vivo,Variado,Variado,Just Chatting,44220,1153,37811100,2437561,128643
+ID_TRANS_000289,2022-10-04,견자희 (wkgml),Korean,Con Patrocinador,Experto,Transmisión en Vivo,Variado,Variado,Just Chatting,80430,2338,186251700,6685621,436181
+ID_TRANS_000290,2022-10-04,chusommontero,Spanish,Con Patrocinador,Novato,Un jugador,RPG,RPG,Dark Souls,50265,577,32147955,1570684,35049
+ID_TRANS_000291,2022-10-04,LSV,English,Con Patrocinador,Avanzado,Multijugador en Línea,Cartas,Juegos de Cartas,Magic: The Gathering,17280,1520,28204605,445963,73755
+ID_TRANS_000292,2022-10-04,lucascharmoso,Portuguese,Con Patrocinador,Experto,Multijugador en Línea,Estrategia,MOBA,League of Legends,30435,1763,56122590,1674666,285464
+ID_TRANS_000293,2022-10-04,Aplfisher,English,Con Patrocinador,Avanzado,Transmisión en Vivo,Variado,Variado,Just Chatting,89955,198,18049755,321587,89534
+ID_TRANS_000294,2022-10-04,HermanLi,English,Con Patrocinador,Avanzado,Interactivo,Música,Música,Music,26775,751,21623010,2121759,139521
+ID_TRANS_000295,2022-10-04,Potxeca,French,Con Patrocinador,Novato,Multijugador en Línea,Acción,Disparos/FPS,Overwatch,31500,484,17645820,512331,45257
+ID_TRANS_000296,2022-10-04,Calebhart42,English,Con Patrocinador,Experto,Un jugador,RPG,RPG,Final Fantasy VII,126750,1874,255392265,2542228,179098
+ID_TRANS_000301,2022-10-05,Kaytlien,German,Con Patrocinador,Experto,,Desconocido,,,102630,293,29884905,982276,188408
+ID_TRANS_000299,2022-10-05,ffaka,Spanish,Con Patrocinador,Avanzado,Multijugador en Línea,Estrategia,MOBA,League of Legends,27225,1648,46727310,1698067,100826
+ID_TRANS_000300,2022-10-05,Arcadum,English,Con Patrocinador,Experto,"Un jugador, Multijugador en Línea",RPG,Juegos de Rol (RPG),Dungeons & Dragons,142065,1593,240160680,3522778,154454
+ID_TRANS_000297,2022-10-05,Znorux,Spanish,Con Patrocinador,Avanzado,Multijugador en Línea,Acción,Disparos/FPS,Counter-Strike: Global Offensive,15465,719,13364415,711841,102673
+ID_TRANS_000298,2022-10-05,Abracadabra,English,Con Patrocinador,Novato,Interactivo,Música,Música,Music,34140,1011,57387525,12056559,26146
+ID_TRANS_000302,2022-10-06,YanekShow,Russian,Con Patrocinador,Aficionado,Multijugador en Línea,RPG,MMORPG,The Elder Scrolls Online,64650,169,12151395,628023,8303
+ID_TRANS_000303,2022-10-06,PizzaHS,English,Con Patrocinador,Novato,Multijugador en Línea,Cartas,Juegos de Cartas,Hearthstone,152880,294,47613345,675959,35017
+ID_TRANS_000304,2022-10-06,Dirtybird,English,Con Patrocinador,Novato,Interactivo,Música,Música,Music,29520,1294,26230890,4922683,27401
+ID_TRANS_000305,2022-10-06,ViTuberYT,Spanish,Con Patrocinador,Avanzado,"Un jugador, Multijugador en Línea",Deporte,Deportes,NBA 2K20,23550,523,13262715,368060,119052
+ID_TRANS_000306,2022-10-06,GaRgoNiT,Russian,Con Patrocinador,Aficionado,Multijugador en Línea,Estrategia,MOBA,Dota 2,69270,198,14981535,710025,20464
+ID_TRANS_000307,2022-10-06,Prefoxfox,English,Con Patrocinador,Aficionado,Multijugador en Línea,RPG,MMORPG,World of Warcraft,133080,255,38614050,892067,16491
+ID_TRANS_000308,2022-10-06,Peek_LATAM,Spanish,Con Patrocinador,Avanzado,Multijugador en Línea,Acción,Disparos/FPS,Counter-Strike: Global Offensive,118560,254,28367475,1417031,90040
+ID_TRANS_000314,2022-10-07,TheFabo,German,Con Patrocinador,Avanzado,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,Minecraft,103065,264,28762380,906298,111357
+ID_TRANS_000313,2022-10-07,KyleBosman,English,Con Patrocinador,Aficionado,Un jugador,RPG,RPG,Final Fantasy IX,25470,449,11440515,145658,11571
+ID_TRANS_000312,2022-10-07,wolvesatmydoor,English,Con Patrocinador,Novato,Un jugador,Otros,Roguelike,The Binding of Isaac: Afterbirth,85800,135,11798955,200572,45645
+ID_TRANS_000309,2022-10-07,100attacktv,Portuguese,Con Patrocinador,Experto,Multijugador en Línea,Acción,Battle Royale,Garena Free Fire,136425,840,107061105,20005520,175107
+ID_TRANS_000310,2022-10-07,inpzera,Portuguese,Con Patrocinador,Novato,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,Grand Theft Auto V,72615,211,16692615,422943,29957
+ID_TRANS_000311,2022-10-07,Senz,English,Con Patrocinador,Novato,Multijugador en Línea,Acción,Disparos/FPS,Tom Clancy,99645,79,10149675,140697,29266
+ID_TRANS_000320,2022-10-08,bmg_lefti,German,Con Patrocinador,Aficionado,"Un jugador, Multijugador en Línea",Deporte,Deportes,FIFA 20,78765,201,16050555,250387,22251
+ID_TRANS_000322,2022-10-08,RTGameCrowd,English,Con Patrocinador,Experto,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,Minecraft,42045,4474,191679270,4486249,901974
+ID_TRANS_000321,2022-10-08,RealKraftyy,English,Con Patrocinador,Experto,"Un jugador, Multijugador en Línea",Acción,Disparos/FPS,Destiny 2,82365,1145,98375850,3498866,709811
+ID_TRANS_000319,2022-10-08,bautiagnone,Spanish,Con Patrocinador,Avanzado,Transmisión en Vivo,Variado,Variado,Just Chatting,30975,621,18575385,435640,142272
+ID_TRANS_000318,2022-10-08,TheOnlyRyann,English,Con Patrocinador,Aficionado,Un jugador,RPG,RPG,Final Fantasy VII Remake,107610,177,19363215,940712,20708
+ID_TRANS_000317,2022-10-08,Atlas,English,Con Patrocinador,Novato,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,Minecraft,69195,129,9468300,160674,33691
+ID_TRANS_000316,2022-10-08,velox,Italian,Con Patrocinador,Experto,Multijugador en Línea,Acción,Disparos/FPS,Call Of Duty: Modern Warfare,96990,1555,170726910,2393936,278527
+ID_TRANS_000315,2022-10-08,indian0ch,Russian,Con Patrocinador,Novato,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,Grand Theft Auto V,40530,428,12405645,885878,53491
+ID_TRANS_000333,2022-10-09,itmeJP,English,Con Patrocinador,Experto,Transmisión en Vivo,Variado,Variado,Just Chatting,138705,2015,286504665,8380306,369224
+ID_TRANS_000332,2022-10-09,chrismelberger,English,Con Patrocinador,Avanzado,Multijugador en Línea,Acción,Battle Royale,Fortnite,109770,302,34306905,724750,70272
+ID_TRANS_000331,2022-10-09,이클리피아 (eclipia),Korean,Con Patrocinador,Novato,Un jugador,RPG,RPG,Dark Souls III,101295,396,41581890,1551575,27540
+ID_TRANS_000330,2022-10-09,Rallied,English,Con Patrocinador,Avanzado,Multijugador en Línea,Acción,Disparos/FPS,Call of Duty: Black Ops 4,114630,381,47507100,562284,134923
+ID_TRANS_000329,2022-10-09,Luxthos,English,Con Patrocinador,Novato,Multijugador en Línea,RPG,MMORPG,World of Warcraft,157035,498,77789130,2722597,42717
+ID_TRANS_000328,2022-10-09,DegenTP,English,Con Patrocinador,Novato,Multijugador en Línea,RPG,RPG,War of the Visions: Final Fantasy Brave Exvius,148125,90,13772340,173560,41391
+ID_TRANS_000327,2022-10-09,EdgarAlanBroLIVE,English,Con Patrocinador,Novato,Multijugador en Línea,Acción,Survival Horror,Dead by Daylight,95700,617,62464020,972022,46739
+ID_TRANS_000326,2022-10-09,DailyDasher,English,Con Patrocinador,Aficionado,Transmisión en Vivo,Variado,Variado,Just Chatting,99105,216,21696780,385198,12203
+ID_TRANS_000325,2022-10-09,highrollersdnd,English,Con Patrocinador,Novato,"Un jugador, Multijugador en Línea",RPG,Juegos de Rol (RPG),Dungeons & Dragons,17865,725,12516270,246323,31429
+ID_TRANS_000324,2022-10-09,FifaTeca66,Portuguese,Con Patrocinador,Novato,"Un jugador, Multijugador en Línea",Deporte,Deportes,FIFA 20,103470,154,17047590,311793,40811
+ID_TRANS_000323,2022-10-09,deviiiiiiiiii,English,Con Patrocinador,Novato,Multijugador en Línea,Acción,Battle Royale,Apex Legends,41370,196,9173295,194537,35236
+ID_TRANS_000341,2022-10-10,headlinermusicclub,English,Con Patrocinador,Aficionado,Interactivo,Música,Música,Music,4650,2661,24308280,6112751,13663
+ID_TRANS_000340,2022-10-10,Mosballin,English,Con Patrocinador,Novato,"Un jugador, Multijugador en Línea",Deporte,Deportes,NBA 2K20,43110,184,9133905,122662,31013
+ID_TRANS_000339,2022-10-10,Dcarter,English,Con Patrocinador,Novato,Multijugador en Línea,RPG,MMORPG,World of Warcraft,93255,156,18283950,2253341,42975
+ID_TRANS_000338,2022-10-10,SmiteGame,English,Con Patrocinador,Experto,Multijugador en Línea,Estrategia,MOBA,SMITE,358965,2235,824865915,11762152,549218
+ID_TRANS_000335,2022-10-10,ESL_CSGO_FR,French,Con Patrocinador,Experto,Multijugador en Línea,Acción,Disparos/FPS,Counter-Strike: Global Offensive,70455,2448,156837975,4981756,199617
+ID_TRANS_000336,2022-10-10,DletGamer,Portuguese,Con Patrocinador,Avanzado,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,Minecraft,17805,1166,18691335,403728,107471
+ID_TRANS_000334,2022-10-10,NoxiousLive,English,Con Patrocinador,Experto,Multijugador en Línea,Cartas,Juegos de Cartas,Magic: The Gathering,49005,903,44440755,840632,192656
+ID_TRANS_000337,2022-10-10,hashinshin,English,Con Patrocinador,Experto,Multijugador en Línea,Estrategia,MOBA,League of Legends,154275,2476,410463735,9056504,570621
+ID_TRANS_000342,2022-10-11,hastad,Portuguese,Con Patrocinador,Experto,Multijugador en Línea,Acción,Disparos/FPS,VALORANT,119235,2126,263217750,8192763,909903
+ID_TRANS_000343,2022-10-11,skinnedteen,English,Con Patrocinador,Novato,Multijugador en Línea,Aventura,Aventura/Sandbox,Sea of Thieves,104340,305,33094620,1194469,53341
+ID_TRANS_000344,2022-10-11,Iti63,French,Con Patrocinador,Aficionado,Interactivo,Otros,Arte,Art,215100,76,17061315,215235,7397
+ID_TRANS_000345,2022-10-11,VitaPvPey,French,Sin Patrocinador,Avanzado,Multijugador en Línea,Acción,Battle Royale,Fortnite,79155,334,27435255,501764,81005
+ID_TRANS_000346,2022-10-11,PrivatePinguin,German,Con Patrocinador,Aficionado,Multijugador en Línea,Simulación,Simulación/Gestión,World of Warships,105030,436,50488515,4161804,20531
+ID_TRANS_000353,2022-10-12,김나성 (naseongkim),Korean,Con Patrocinador,Avanzado,Transmisión en Vivo,Variado,Variado,Just Chatting,227160,1768,406441560,9771026,108483
+ID_TRANS_000355,2022-10-12,Tocata,Spanish,Con Patrocinador,Experto,Multijugador en Línea,Acción,Battle Royale,Fortnite,84780,708,63192225,1650978,297497
+ID_TRANS_000354,2022-10-12,realBamBam,English,Con Patrocinador,Aficionado,Multijugador en Línea,Estrategia,MOBA,League of Legends,74535,281,21368895,283880,24311
+ID_TRANS_000352,2022-10-12,KayPikeFashion,English,Con Patrocinador,Experto,Transmisión en Vivo,Variado,Variado,Just Chatting,23340,477,12563760,1482575,163202
+ID_TRANS_000351,2022-10-12,나초__ (nannanacho),Korean,Sin Patrocinador,Aficionado,Multijugador en Línea,RPG,MMORPG,MapleStory,110940,374,41496705,725447,21368
+ID_TRANS_000350,2022-10-12,gymnast86,English,Con Patrocinador,Novato,Un jugador,Aventura,Acción/Aventura,The Legend of Zelda: Twilight Princess HD,54540,438,24121440,326317,52437
+ID_TRANS_000349,2022-10-12,Plag1atiwe,Russian,Sin Patrocinador,Novato,Multijugador en Línea,Cartas,Juegos de Cartas,Hearthstone,36975,215,9333150,320542,34015
+ID_TRANS_000348,2022-10-12,simonhoneydew,English,Con Patrocinador,Novato,"Un jugador, Multijugador Local, en Línea",Aventura,Aventura/Sandbox,Animal Crossing: New Horizons,37095,739,28348500,412543,46381
+ID_TRANS_000347,2022-10-12,followKudes,Russian,Con Patrocinador,Experto,Multijugador en Línea,Estrategia,MOBA,Dota 2,113520,801,95829285,4029112,259657
+ID_TRANS_000366,2022-10-13,KVYZEE,Russian,Con Patrocinador,Avanzado,Multijugador en Línea,Estrategia,MOBA,Dota 2,157620,861,147121485,6375984,123783
+ID_TRANS_000365,2022-10-13,CaspeRRRTV,Russian,Con Patrocinador,Novato,Multijugador en Línea,Estrategia,MOBA,Dota 2,54945,344,19573545,755941,42179
+ID_TRANS_000364,2022-10-13,Rekkles,English,Con Patrocinador,Experto,Multijugador en Línea,Estrategia,MOBA,League of Legends,4770,9678,49441890,1776945,657073
+ID_TRANS_000363,2022-10-13,WolfMachina,English,Con Patrocinador,Aficionado,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,Minecraft,121905,89,11340510,303431,11518
+ID_TRANS_000362,2022-10-13,EasilyyR6,English,Con Patrocinador,Novato,Multijugador en Línea,Acción,Disparos/FPS,Tom Clancy,59955,288,19522140,425993,56117
+ID_TRANS_000367,2022-10-13,GoodGuyGarry,English,Con Patrocinador,Experto,Multijugador en Línea,Estrategia,MOBA,League of Legends,24825,490,13357650,223735,254910
+ID_TRANS_000360,2022-10-13,nukkular_reaction,English,Con Patrocinador,Aficionado,Un jugador,Aventura,Acción/Aventura,The Legend of Zelda: Ocarina of Time,92880,87,8894070,125596,3709
+ID_TRANS_000359,2022-10-13,BigfloEtOliLive,French,Con Patrocinador,Avanzado,Transmisión en Vivo,Variado,Variado,Just Chatting,3540,3575,12709050,1036930,132108
+ID_TRANS_000358,2022-10-13,Naded,English,Con Patrocinador,Avanzado,Multijugador en Línea,Acción,Disparos/FPS,Halo: The Master Chief Collection,96510,346,39012720,1729528,105783
+ID_TRANS_000357,2022-10-13,STYLERZ,German,Con Patrocinador,Novato,Multijugador en Línea,Acción,Disparos/FPS,Call Of Duty: Modern Warfare,58635,282,18158025,256713,28270
+ID_TRANS_000356,2022-10-13,마린22 (marin000),Korean,Con Patrocinador,Avanzado,Multijugador en Línea,Estrategia,MOBA,League of Legends,58425,613,38430150,1444405,90875
+ID_TRANS_000361,2022-10-13,BlueandQueenie,English,Con Patrocinador,Novato,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,Minecraft,107175,154,17092875,1942081,56708
+ID_TRANS_000371,2022-10-14,VALECHOBERK,German,Con Patrocinador,Novato,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,Grand Theft Auto V,120195,810,102956850,4632883,41253
+ID_TRANS_000370,2022-10-14,ForgottenProject,English,Con Patrocinador,Novato,Multijugador en Línea,Estrategia,MOBA,League of Legends,52860,250,14696760,429819,41216
+ID_TRANS_000372,2022-10-14,Terracid,French,Con Patrocinador,Experto,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,Minecraft,28380,2793,83474790,2406709,513436
+ID_TRANS_000368,2022-10-14,Carola,Spanish,Con Patrocinador,Novato,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,Grand Theft Auto V,43680,620,27935115,849631,43072
+ID_TRANS_000369,2022-10-14,KuruHS,English,Con Patrocinador,Avanzado,"Un jugador, Multijugador en Línea",Otros,Carreras,Need for Speed: Heat,132495,549,74353770,1982762,113468
+ID_TRANS_000373,2022-10-15,ZetoxXD,English,Con Patrocinador,Aficionado,Multijugador en Línea,RPG,MMORPG,World of Warcraft,99690,125,15581205,365111,8665
+ID_TRANS_000374,2022-10-15,HitMediaRU,Russian,Con Patrocinador,Novato,Multijugador en Línea,Acción,Disparos/FPS,Counter-Strike: Global Offensive,62205,331,21980685,1996721,40033
+ID_TRANS_000375,2022-10-15,JaSantaolalla,Spanish,Con Patrocinador,Avanzado,Transmisión en Vivo,Otros,Ciencia y Tecnología,Science & Technology,10245,862,11605920,503570,95719
+ID_TRANS_000376,2022-10-15,Movistar_Riders,Spanish,Con Patrocinador,Novato,Multijugador en Línea,Estrategia,MOBA,League of Legends,50295,140,10109805,677669,43531
+ID_TRANS_000377,2022-10-15,Klean,English,Con Patrocinador,Experto,Multijugador en Línea,Acción,Disparos/FPS,Escape From Tarkov,176775,2961,580528710,8440360,286495
+ID_TRANS_000378,2022-10-15,Alchemy,English,Con Patrocinador,Aficionado,Transmisión en Vivo,Variado,Variado,Just Chatting,71040,222,16238805,300022,18519
+ID_TRANS_000385,2022-10-16,Friskk,English,Con Patrocinador,Novato,Multijugador en Línea,Acción,Survival Horror,Dead by Daylight,83265,154,12758595,961164,34429
+ID_TRANS_000387,2022-10-16,RainyCreates,Portuguese,Con Patrocinador,Avanzado,Multijugador en Línea,Acción,Battle Royale,Fortnite,38100,227,10589100,365067,82979
+ID_TRANS_000386,2022-10-16,AIMLUL,Russian,Con Patrocinador,Novato,Multijugador en Línea,Acción,Disparos/FPS,Escape From Tarkov,118440,944,117139350,2415247,56163
+ID_TRANS_000388,2022-10-16,GustavoZenhei,Portuguese,Sin Patrocinador,Aficionado,Multijugador en Línea,Estrategia,MOBA,League of Legends,149520,57,8846820,134644,6200
+ID_TRANS_000384,2022-10-16,TwitchGaming,English,Con Patrocinador,Experto,Eventos Especiales,Otros,Eventos Especiales,Summer Game Fest,6810,14202,103806315,22651541,223093
+ID_TRANS_000381,2022-10-16,zanuda,Russian,Con Patrocinador,Experto,Transmisión en Vivo,Variado,Variado,Just Chatting,45645,873,41163975,3545249,157400
+ID_TRANS_000382,2022-10-16,ubah,Russian,Con Patrocinador,Avanzado,Multijugador en Línea,Acción,Battle Royale,PLAYERUNKNOWN,15870,1138,19526145,1021968,111989
+ID_TRANS_000380,2022-10-16,Coestar,English,Con Patrocinador,Avanzado,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,Minecraft,98445,212,21259590,302140,64370
+ID_TRANS_000379,2022-10-16,GuhRL,English,Con Patrocinador,Novato,Multijugador en Línea,Acción,Battle Royale,Apex Legends,155475,175,27761550,826162,49580
+ID_TRANS_000383,2022-10-16,Sanchovies,English,Con Patrocinador,Experto,Multijugador en Línea,Estrategia,MOBA,League of Legends,147855,1567,237937860,4984070,180939
+ID_TRANS_000389,2022-10-17,nookyyy,German,Con Patrocinador,Experto,Multijugador en Línea,Acción,Disparos/FPS,VALORANT,153930,657,135384690,2440628,206518
+ID_TRANS_000390,2022-10-17,Suto,English,Con Patrocinador,Avanzado,Transmisión en Vivo,Variado,Variado,Just Chatting,107820,411,45089115,544494,141411
+ID_TRANS_000391,2022-10-17,s0upes,English,Con Patrocinador,Aficionado,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,Grand Theft Auto V,78975,217,19951275,208630,13116
+ID_TRANS_000392,2022-10-17,DnellTv,English,Con Patrocinador,Avanzado,"Un jugador, Multijugador en Línea",Deporte,Deportes,NBA 2K20,73590,640,52156395,551955,91988
+ID_TRANS_000393,2022-10-17,샤를캣 (tifmf24),Korean,Con Patrocinador,Novato,Transmisión en Vivo,Variado,Variado,Just Chatting,64200,285,17955315,914262,51142
+ID_TRANS_000394,2022-10-17,YAR_ki,Russian,Con Patrocinador,Novato,Un jugador,Estrategia,Estrategia por Turnos (TBS),Heroes of Might and Magic III: The Shadow of Death,167910,469,83436255,5036046,26859
+ID_TRANS_000395,2022-10-17,ketrik_,English,Sin Patrocinador,Aficionado,Variado,Variado,Variado,Unlisted on Twitch,14175,824,14713500,1409010,5238
+ID_TRANS_000396,2022-10-17,SdeSergi0,Spanish,Sin Patrocinador,Experto,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,Grand Theft Auto V,18465,3973,73556235,2647117,343828
+ID_TRANS_000397,2022-10-17,LCK,English,Con Patrocinador,Experto,Multijugador en Línea,Estrategia,MOBA,League of Legends,36885,38446,1417760370,30585704,979389
+ID_TRANS_000398,2022-10-17,Lege,French,Con Patrocinador,Novato,"Un jugador, Multijugador en Línea",Desconocido,Estrategia,Sid Meier,112860,508,58380135,1896638,50107
+ID_TRANS_000404,2022-10-18,KRASHED,English,Con Patrocinador,Aficionado,Multijugador en Línea,Acción,Disparos/FPS,Escape From Tarkov,118560,111,15658245,246396,19530
+ID_TRANS_000403,2022-10-18,Bladecito,Spanish,Con Patrocinador,Avanzado,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,Grand Theft Auto V,103725,360,39855060,4436541,107831
+ID_TRANS_000402,2022-10-18,Welyn,English,Con Patrocinador,Experto,Multijugador en Línea,Acción,Disparos/FPS,Escape From Tarkov,45690,1526,70060470,2080419,507819
+ID_TRANS_000400,2022-10-18,Brawlhalla,English,Con Patrocinador,Experto,Multijugador en Línea,Otros,Lucha,Brawlhalla,31095,6156,330910035,4547332,697847
+ID_TRANS_000399,2022-10-18,ScokSC2,French,Con Patrocinador,Avanzado,Multijugador en Línea,Estrategia,MOBA,League of Legends,123915,188,23615295,1951134,66543
+ID_TRANS_000401,2022-10-18,JulietteArz,French,Con Patrocinador,Experto,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,Grand Theft Auto V,85110,1079,112946400,3174971,213753
+ID_TRANS_000411,2022-10-19,KalathrasLolweapon,Spanish,Con Patrocinador,Avanzado,Transmisión en Vivo,Variado,Variado,Just Chatting,76485,1213,94255110,4831506,116424
+ID_TRANS_000405,2022-10-19,Minaegi_TV,Korean,Con Patrocinador,Aficionado,Multijugador en Línea,RPG,MMORPG,World of Warcraft,165660,239,46195305,1082717,7003
+ID_TRANS_000406,2022-10-19,BersGamer,Spanish,Con Patrocinador,Experto,Multijugador en Línea,Acción,Survival Horror,Dead by Daylight,33210,266,8922540,328302,168985
+ID_TRANS_000407,2022-10-19,TexasWildLife,English,Sin Patrocinador,Aficionado,Transmisión en Vivo,Otros,Viajes y Exteriores,Travel & Outdoors,463470,39,18638085,75652,8540
+ID_TRANS_000408,2022-10-19,JASONR,English,Con Patrocinador,Experto,Multijugador en Línea,Acción,Disparos/FPS,VALORANT,192450,974,193223445,5947015,774310
+ID_TRANS_000409,2022-10-19,Amaz,English,Con Patrocinador,Experto,Multijugador en Línea,Cartas,Juegos de Cartas,Hearthstone,80280,2568,207573810,3739021,908885
+ID_TRANS_000410,2022-10-19,Artosis,English,Con Patrocinador,Avanzado,Multijugador en Línea,Estrategia,Estrategia en Tiempo Real (RTS),StarCraft,63210,967,63825360,1038916,100000
+ID_TRANS_000412,2022-10-19,Nico,English,Con Patrocinador,Avanzado,"Un jugador, Multijugador Local, en Línea",Aventura,Aventura/Sandbox,Animal Crossing: New Horizons,114765,132,15522030,382842,80901
+ID_TRANS_000413,2022-10-19,TheDevilDogGamer,English,Con Patrocinador,Experto,Multijugador en Línea,Acción,Disparos/FPS,Escape From Tarkov,76860,763,122155155,851138,230892
+ID_TRANS_000414,2022-10-19,D3stri,Spanish,Con Patrocinador,Experto,Multijugador en Línea,Acción,Battle Royale,Fortnite,85425,893,77847315,2623687,374040
+ID_TRANS_000415,2022-10-19,Jankos,English,Con Patrocinador,Experto,Multijugador en Línea,Estrategia,MOBA,League of Legends,41385,6213,266091525,8950818,592558
+ID_TRANS_000423,2022-10-20,keiozin,Portuguese,Con Patrocinador,Experto,Multijugador en Línea,Estrategia,MOBA,League of Legends,64515,1851,123143400,4289423,236991
+ID_TRANS_000422,2022-10-20,Shurjoka,German,Con Patrocinador,Avanzado,Transmisión en Vivo,Variado,Variado,Just Chatting,118770,576,72026640,4421544,99198
+ID_TRANS_000425,2022-10-20,ImMadness,English,Con Patrocinador,Novato,Multijugador en Línea,Acción,Battle Royale,Apex Legends,118605,203,27396285,723887,53944
+ID_TRANS_000424,2022-10-20,shroud,English,Con Patrocinador,Experto,Multijugador en Línea,Aventura,Aventura/Sandbox,DayZ,29385,33016,938602095,31271621,8341579
+ID_TRANS_000421,2022-10-20,Naghz,English,Con Patrocinador,Novato,Multijugador en Línea,Acción,Battle Royale,Apex Legends,125835,158,22747560,327085,30983
+ID_TRANS_000416,2022-10-20,가재맨입니다 (subsub1006),Korean,Sin Patrocinador,Novato,Multijugador en Línea,Estrategia,MOBA,League of Legends,40110,416,16808670,395948,28727
+ID_TRANS_000419,2022-10-20,pokanoname,Russian,Con Patrocinador,Avanzado,Multijugador en Línea,Acción,Disparos/FPS,Counter-Strike: Global Offensive,66420,555,36559620,2995782,99519
+ID_TRANS_000418,2022-10-20,Quill18,English,Con Patrocinador,Experto,"Un jugador, Multijugador en Línea",Desconocido,Estrategia,Hearts of Iron IV,31815,1051,35792475,896252,194711
+ID_TRANS_000417,2022-10-20,akaStinger,Russian,Con Patrocinador,Aficionado,Un jugador,Estrategia,Estrategia por Turnos (TBS),Heroes of Might and Magic III: The Shadow of Death,132105,344,45059505,1490420,21260
+ID_TRANS_000420,2022-10-20,arcticlaser,English,Sin Patrocinador,Avanzado,Multijugador en Línea,Acción,Battle Royale,Fortnite,51240,154,17266770,210380,133193
+ID_TRANS_000434,2022-10-21,Agony,English,Con Patrocinador,Experto,Multijugador en Línea,Acción,Disparos/FPS,Call Of Duty: Modern Warfare,52815,631,32668125,495766,426564
+ID_TRANS_000433,2022-10-21,kev1nTV,German,Con Patrocinador,Experto,Multijugador en Línea,Estrategia,MOBA,League of Legends,126210,775,98739600,2536242,226121
+ID_TRANS_000432,2022-10-21,TSM_TheOddOne,English,Con Patrocinador,Experto,Multijugador en Línea,Estrategia,Estrategia en Tiempo Real (RTS),Warcraft III,189480,906,181042440,5761634,859433
+ID_TRANS_000431,2022-10-21,ThePowerOfEvil,English,Con Patrocinador,Avanzado,Multijugador en Línea,Estrategia,MOBA,League of Legends,19770,536,11660145,288635,98093
+ID_TRANS_000435,2022-10-21,Andy_Oasis,Spanish,Con Patrocinador,Novato,"Un jugador, Multijugador en Línea",Deporte,Deportes,FIFA 20,52125,525,27804015,393636,44570
+ID_TRANS_000429,2022-10-21,PaymoneyWubby,English,Con Patrocinador,Experto,Transmisión en Vivo,Variado,Variado,Just Chatting,31785,5945,189845115,2940864,332406
+ID_TRANS_000428,2022-10-21,ster,English,Con Patrocinador,Experto,Multijugador en Línea,Acción,Disparos/FPS,Paladins,45000,788,37562805,617745,307359
+ID_TRANS_000427,2022-10-21,JoeNeverFails,English,Con Patrocinador,Novato,Multijugador en Línea,RPG,MMORPG,Black Desert Online,87420,249,22439370,609450,51566
+ID_TRANS_000426,2022-10-21,Zulp,English,Con Patrocinador,Aficionado,Multijugador en Línea,RPG,MMORPG,World of Warcraft,76590,239,18910020,609902,17252
+ID_TRANS_000430,2022-10-21,Tonton,French,Con Patrocinador,Experto,Transmisión en Vivo,Variado,Variado,Just Chatting,134010,1477,201158370,6070816,169971
+ID_TRANS_000443,2022-10-22,SolaryEvent,French,Con Patrocinador,Avanzado,"Multijugador Local, en Línea",Otros,Lucha,Super Smash Bros. Ultimate,38490,463,17859525,507051,65991
+ID_TRANS_000442,2022-10-22,uccstudio,Russian,Con Patrocinador,Avanzado,Multijugador en Línea,Estrategia,MOBA,Dota 2,45225,971,30724005,2364492,82444
+ID_TRANS_000441,2022-10-22,baky_baky,English,Sin Patrocinador,Aficionado,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,Minecraft,20115,581,11841075,4500021,4592
+ID_TRANS_000440,2022-10-22,이니_게임방송 (inelism),Korean,Sin Patrocinador,Aficionado,Multijugador en Línea,Estrategia,Estrategia en Tiempo Real (RTS),Warcraft III,158910,59,9364215,136943,1726
+ID_TRANS_000439,2022-10-22,DroiidFr0xy,Spanish,Con Patrocinador,Aficionado,Multijugador en Línea,Acción,Battle Royale,Garena Free Fire,135675,66,10306170,2924244,23055
+ID_TRANS_000437,2022-10-22,crrr,English,Con Patrocinador,Experto,Multijugador en Línea,Acción,Battle Royale,Fortnite,6150,1996,11441265,574118,172846
+ID_TRANS_000436,2022-10-22,에렌디라 (erenjjing),Korean,Con Patrocinador,Experto,Transmisión en Vivo,Variado,Variado,Just Chatting,84240,999,84356235,3550325,294862
+ID_TRANS_000438,2022-10-22,Rubius,Spanish,Con Patrocinador,Experto,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,Minecraft,63285,49771,3278317200,74460362,6579492
+ID_TRANS_000453,2022-10-23,YoDa,Portuguese,Con Patrocinador,Experto,Multijugador en Línea,Estrategia,MOBA,League of Legends,144000,12984,1819771545,41453195,1862396
+ID_TRANS_000452,2022-10-23,leveluplive,English,Con Patrocinador,Experto,Multijugador en Línea,Acción,Survival Horror,Resident Evil: Resistance,82020,290,25197810,1293069,191148
+ID_TRANS_000451,2022-10-23,콩비니_ (waterhyacinth_),Korean,Con Patrocinador,Novato,Multijugador en Línea,Acción,Disparos/FPS,Escape From Tarkov,29565,813,22249065,426708,26623
+ID_TRANS_000450,2022-10-23,TigressX,English,Sin Patrocinador,Novato,Multijugador en Línea,Acción,Disparos/FPS,Call Of Duty: Modern Warfare,50970,482,27704130,124971,41651
+ID_TRANS_000449,2022-10-23,DadoschYT,German,Sin Patrocinador,Aficionado,"Un jugador, Multijugador en Línea",Desconocido,Juegos de Azar,Slots,48840,212,10338510,239871,11686
+ID_TRANS_000447,2022-10-23,LoGiiYT,Spanish,Con Patrocinador,Avanzado,Multijugador en Línea,Estrategia,MOBA,League of Legends,78990,221,18024375,775140,102365
+ID_TRANS_000446,2022-10-23,earliboy,German,Con Patrocinador,Experto,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,Grand Theft Auto V,111375,643,80462430,2219702,201779
+ID_TRANS_000445,2022-10-23,sawggofficial,Portuguese,Sin Patrocinador,Aficionado,Multijugador en Línea,Acción,Disparos/FPS,Counter-Strike: Global Offensive,6615,1315,9618255,418748,18455
+ID_TRANS_000444,2022-10-23,JugandorCriticonOficial,Spanish,Con Patrocinador,Novato,Transmisión en Vivo,Variado,Variado,Just Chatting,40170,469,20742825,584546,29106
+ID_TRANS_000448,2022-10-23,Slushpuppy,English,Con Patrocinador,Avanzado,Multijugador en Línea,Acción,Disparos/FPS,Escape From Tarkov,153900,1612,318435735,5399523,124792
+ID_TRANS_000463,2022-10-24,RaevenCCA,Spanish,Con Patrocinador,Novato,Multijugador en Línea,RPG,MMORPG,World of Warcraft,105600,148,16246350,641040,41019
+ID_TRANS_000462,2022-10-24,BehindTheRhyme,English,Con Patrocinador,Aficionado,Interactivo,Música,Música,Music,13605,2277,24022200,7353508,24713
+ID_TRANS_000461,2022-10-24,Cookiemanman,English,Con Patrocinador,Aficionado,Multijugador en Línea,Estrategia,MOBA,League of Legends,73875,121,10210755,244988,15167
+ID_TRANS_000460,2022-10-24,Fareeha,English,Con Patrocinador,Avanzado,Multijugador en Línea,Acción,Disparos/FPS,Overwatch,117930,410,51169200,1257793,111919
+ID_TRANS_000459,2022-10-24,Neytiri,English,Con Patrocinador,Avanzado,Transmisión en Vivo,Variado,Variado,Just Chatting,56310,315,20261640,666681,68228
+ID_TRANS_000458,2022-10-24,repazmois,German,Con Patrocinador,Experto,Multijugador en Línea,Acción,Battle Royale,Fortnite,113955,1121,140616090,2358774,409934
+ID_TRANS_000456,2022-10-24,RaphaelLevy,English,Con Patrocinador,Aficionado,Multijugador en Línea,Cartas,Juegos de Cartas,Magic: The Gathering,53505,159,9291810,193467,9675
+ID_TRANS_000455,2022-10-24,LCS,English,Con Patrocinador,Experto,Multijugador en Línea,Estrategia,MOBA,League of Legends,36630,48240,1852648845,34436876,1257562
+ID_TRANS_000454,2022-10-24,tubasuki,English,Con Patrocinador,Novato,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,Grand Theft Auto V,132345,92,13053495,222645,51297
+ID_TRANS_000457,2022-10-24,WolfeyVGC,English,Con Patrocinador,Avanzado,"Un jugador, Multijugador en Línea",RPG,RPG,Pokémon Sword/Shield,23985,1034,27270240,563700,77785
+ID_TRANS_000469,2022-10-25,재슥짱 (pikra10),Korean,Con Patrocinador,Avanzado,Multijugador en Línea,Estrategia,MOBA,League of Legends,127380,1231,163740765,3512359,84832
+ID_TRANS_000468,2022-10-25,DanieltheDemon,English,Con Patrocinador,Avanzado,Transmisión en Vivo,Variado,Variado,Just Chatting,90870,102,9479250,217714,69521
+ID_TRANS_000467,2022-10-25,NicolePeachyST,English,Con Patrocinador,Avanzado,Transmisión en Vivo,Variado,Variado,Just Chatting,82245,233,18993300,1574454,90558
+ID_TRANS_000465,2022-10-25,ViolentDestruction,English,Con Patrocinador,Aficionado,Multijugador en Línea,RPG,MMORPG,FINAL FANTASY XIV Online,92835,125,12072060,243038,8706
+ID_TRANS_000464,2022-10-25,Seapeekay,English,Con Patrocinador,Avanzado,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,Minecraft,53145,164,10482135,330132,70643
+ID_TRANS_000466,2022-10-25,SpeedrunsBrasil,Portuguese,Con Patrocinador,Novato,Variado,Variado,Variado,Unlisted on Twitch,35145,703,46575660,9302535,39977
+ID_TRANS_000470,2022-10-26,blake,English,Con Patrocinador,Experto,Multijugador en Línea,Acción,Battle Royale,Fortnite,84150,472,45253755,2138331,158919
+ID_TRANS_000471,2022-10-26,_여니_ (yeoni90),Korean,Con Patrocinador,Aficionado,Multijugador en Línea,RPG,MMORPG,LOST ARK,110520,193,21599730,928049,22393
+ID_TRANS_000472,2022-10-26,MrAquaman,English,Con Patrocinador,Aficionado,Multijugador en Línea,Otros,Lucha,Mortal Kombat 11,50160,334,17488440,1354778,21741
+ID_TRANS_000473,2022-10-26,Vause,French,Con Patrocinador,Avanzado,"Un jugador, Multijugador en Línea",Desconocido,Juegos de Azar,Slots,74295,188,14267700,399138,120081
+ID_TRANS_000474,2022-10-26,Powie,German,Con Patrocinador,Novato,Transmisión en Vivo,Variado,Variado,Just Chatting,53550,492,28339275,4022369,44436
+ID_TRANS_000475,2022-10-26,Lulypop_,Spanish,Con Patrocinador,Avanzado,Multijugador en Línea,Acción,Battle Royale,Fortnite,47730,195,9183990,920924,76760
+ID_TRANS_000476,2022-10-26,Badger,English,Con Patrocinador,Novato,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,Terraria,41235,262,11583420,339586,52086
+ID_TRANS_000477,2022-10-26,한여름입니다 (hansummer_),Korean,Con Patrocinador,Novato,Multijugador en Línea,Acción,Battle Royale,PLAYERUNKNOWN,128745,90,11801715,414502,26024
+ID_TRANS_000484,2022-10-27,Macaw45,English,Con Patrocinador,Aficionado,"Un jugador, Multijugador en Línea",Variado,Variado,Retro,96930,493,47994990,389676,14714
+ID_TRANS_000483,2022-10-27,RiotGames_Korea,Korean,Con Patrocinador,Avanzado,Multijugador en Línea,Cartas,Juegos de Cartas,Legends of Runeterra,13425,3741,58717260,8176356,71497
+ID_TRANS_000482,2022-10-27,Patalea,Spanish,Con Patrocinador,Novato,Multijugador en Línea,Acción,Battle Royale,Fortnite,66045,147,9628560,130817,41784
+ID_TRANS_000479,2022-10-27,UnknownxArmy,English,Con Patrocinador,Experto,Multijugador en Línea,Acción,Battle Royale,Fortnite,102765,3886,393874440,13982129,983275
+ID_TRANS_000480,2022-10-27,Nnoggie,English,Con Patrocinador,Novato,Multijugador en Línea,RPG,MMORPG,World of Warcraft,67395,473,31104660,1197058,54958
+ID_TRANS_000478,2022-10-27,SmashFactorGaming,Spanish,Con Patrocinador,Aficionado,"Multijugador Local, en Línea",Otros,Lucha,Super Smash Bros. Ultimate,118395,155,19738605,4894677,15659
+ID_TRANS_000481,2022-10-27,실프_ (silphtv),Korean,Con Patrocinador,Experto,Multijugador en Línea,Estrategia,MOBA,League of Legends,189600,1805,354836325,6747244,313367
+ID_TRANS_000494,2022-10-28,IrmanPlay,English,Sin Patrocinador,Experto,Multijugador en Línea,Acción,Disparos/FPS,VALORANT,42345,2512,205837245,3317440,248512
+ID_TRANS_000493,2022-10-28,FrankTheOfficial,Italian,Con Patrocinador,Aficionado,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,Grand Theft Auto V,101400,204,21389280,643279,20834
+ID_TRANS_000492,2022-10-28,CarritosKami,Spanish,Con Patrocinador,Experto,Multijugador en Línea,Estrategia,MOBA,League of Legends,105240,1635,156619035,6679665,166547
+ID_TRANS_000491,2022-10-28,jessirocks,German,Con Patrocinador,Avanzado,"Un jugador, Multijugador en Línea",RPG,RPG,Diablo III,76155,958,87411390,11722826,64823
+ID_TRANS_000490,2022-10-28,Tawna,Portuguese,Con Patrocinador,Experto,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,Grand Theft Auto V,95910,281,29773230,1570844,187285
+ID_TRANS_000488,2022-10-28,DroiidFr0xy,Spanish,Con Patrocinador,Aficionado,Multijugador en Línea,Acción,Battle Royale,Garena Free Fire,135675,66,10306170,2924244,23055
+ID_TRANS_000487,2022-10-28,steel,Russian,Con Patrocinador,Avanzado,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,Grand Theft Auto V,76320,971,76093680,2708270,108341
+ID_TRANS_000486,2022-10-28,Swiftor,English,Con Patrocinador,Experto,Multijugador en Línea,Acción,Disparos/FPS,Call Of Duty: Modern Warfare,157935,719,109522065,8989809,1219655
+ID_TRANS_000485,2022-10-28,TeamleSS,Russian,Con Patrocinador,Novato,Multijugador en Línea,Estrategia,MOBA,League of Legends,93945,520,51019710,2725633,48293
+ID_TRANS_000489,2022-10-28,ELEAGUE TV (eleaguetv),English,Con Patrocinador,Experto,Multijugador en Línea,Deporte,Deportes,Rocket League,14460,5066,109019145,4095401,1663710
+ID_TRANS_000501,2022-10-29,carlosxiri,Spanish,Con Patrocinador,Novato,Multijugador en Línea,Acción,Disparos/FPS,VALORANT,148815,171,31295955,5524717,41664
+ID_TRANS_000503,2022-10-29,MissCoookiez,English,Con Patrocinador,Experto,Interactivo,Otros,Arte,Art,49905,233,11568330,576161,183709
+ID_TRANS_000502,2022-10-29,Gamesager,English,Con Patrocinador,Avanzado,"Un jugador, Multijugador en Línea",Acción,Disparos/FPS,Destiny 2,77280,151,12451830,200224,80625
+ID_TRANS_000500,2022-10-29,GoldfoxTV,German,Con Patrocinador,Aficionado,Transmisión en Vivo,Variado,Variado,Just Chatting,51945,222,9968820,2644295,11737
+ID_TRANS_000495,2022-10-29,FrankTheOfficial,Italian,Con Patrocinador,Aficionado,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,Grand Theft Auto V,101400,204,21389280,643279,20834
+ID_TRANS_000498,2022-10-29,박나나_ (hm716),Korean,Con Patrocinador,Avanzado,Multijugador en Línea,Estrategia,MOBA,League of Legends,61890,300,18354930,554212,65666
+ID_TRANS_000497,2022-10-29,Shadybunny,English,Con Patrocinador,Avanzado,Multijugador en Línea,Cartas,Juegos de Cartas,Hearthstone,133665,241,32318520,446624,63288
+ID_TRANS_000496,2022-10-29,Arvius,English,Con Patrocinador,Novato,Un jugador,Estrategia,Estrategia en Tiempo Real (RTS),They Are Billions,146070,514,80642850,970132,46982
+ID_TRANS_000499,2022-10-29,Yuggie_TV,English,Con Patrocinador,Avanzado,Transmisión en Vivo,Variado,Variado,Just Chatting,112800,1005,119027535,3040667,89300
+ID_TRANS_000508,2022-10-30,JustNormal_98,Italian,Con Patrocinador,Aficionado,"Un jugador, Multijugador en Línea",Aventura,Aventura/Sandbox,Grand Theft Auto V,56610,145,9424035,331306,11952
+ID_TRANS_000504,2022-10-30,JavifC,Spanish,Con Patrocinador,Aficionado,Multijugador en Línea,RPG,MMORPG,Black Desert Online,119835,94,12049830,289321,7980
+ID_TRANS_000505,2022-10-30,FrancoEscamillaLIVE,Spanish,Con Patrocinador,Avanzado,Variado,Variado,Variado,Unlisted on Twitch,491145,176,87563910,7197433,105156
+ID_TRANS_000506,2022-10-30,JSmoothHD,English,Con Patrocinador,Avanzado,Multijugador en Línea,Acción,Disparos/FPS,Call Of Duty: Modern Warfare,116715,176,23688090,555436,70156
+ID_TRANS_000507,2022-10-30,vraunelasf,Portuguese,Con Patrocinador,Avanzado,Multijugador en Línea,Acción,Battle Royale,Garena Free Fire,37350,711,27920910,387768,125141
+ID_TRANS_000509,2022-10-30,s11Ghoul,Russian,Con Patrocinador,Aficionado,Transmisión en Vivo,Variado,Variado,Just Chatting,53745,148,9106290,323178,12623
